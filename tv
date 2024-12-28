@@ -2,11 +2,11 @@
 #EXTINF:0,Willax
 http://38.183.183.249:8000/play/a0fc/index.m3u8
 #EXTINF:0,Latina TV
-http://bantel-cdn4.iptvperu.tv:1935/H9vMCg/latina.stream/playlist.m3u8
+http://190.13.81.218:18000/play/a08p
 #EXTINF:0,RPP TV
 https://bantel-cdn1.iptvperu.tv:1936/cdnjut/RPP/playlist.m3u8
 #EXTINF:0,America TV
-http://bantel-cdn4.iptvperu.tv:1935/nfYYp9/americatv.stream/playlist.m3u8
+http://190.13.81.218:18000/play/a08o
 #EXTINF:-1,Panamericana
 http://bantel-cdn4.iptvperu.tv:1935/emM922/panamericana.stream/playlist.m3u8
 #EXTINF:0,Exitosa
