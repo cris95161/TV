@@ -28,9 +28,11 @@ http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0,Azteca Uno
-http://ultrapremium.cloud:8080/juanpenatv/pcj22z/55055
+http://45.5.117.57:8300/play/a08g/index.m3u8
+#EXTINF:0,Imagen Tv
+https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
 #EXTINF:0,Telemundo
-http://ultrapremium.cloud:8080/juanpenatv/pcj22z/68049
+http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
 #EXTINF:0,Univision
 http://181.78.106.127:9000/play/ca006/index.m3u8
 #EXTINF:-1,Canal 5
