@@ -4,25 +4,25 @@ http://38.183.183.249:8000/play/a0fc/index.m3u8
 #EXTINF:0,Latina TV
 http://190.13.81.218:18000/play/a08p
 #EXTINF:0,RPP TV
-http://181.176.155.7:8090/play/a0xv/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8?nimblesessionid=288680256
 #EXTINF:0,America TV
 http://190.13.81.218:18000/play/a08o
 #EXTINF:-1,Panamericana
 http://bantel-cdn4.iptvperu.tv:1935/emM922/panamericana.stream/playlist.m3u8
 #EXTINF:0,Exitosa
-http://181.176.155.7:8090/play/a0p2/index.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8?nimblesessionid=288683159
 #EXTINF:0,TV PERU
-https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
+http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8?nimblesessionid=288683131
 #EXTINF:-1,Canal N
-http://179.51.160.189:9009/play/a00d/index.m3u8
+http://190.187.200.242:8000/play/a0cf/index.m3u8
 #EXTINF:0,Atv
 http://bantel-cdn4.iptvperu.tv:1935/YNbWz9/atv.stream/playlist.m3u8
 #EXTINF:0,Tlnovelas
-http://181.176.155.7:8090/play/a0y9/index.m3u8
+http://190.61.116.155:7000/play/a042
 #EXTINF:0,Pasiones HD
-http://181.176.155.7:8090/play/a0yl/index.m3u8
+http://190.61.116.155:7000/play/a00u
 #EXTINF:0,DISTRITO COMEDIA HD
-http://181.78.106.127:9000/play/ca055/index.m3u8
+http://190.61.116.155:7000/play/a043
 #EXTINF:-1,GLOBAL HD
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
