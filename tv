@@ -4,15 +4,15 @@ http://38.183.183.249:8000/play/a0fc/index.m3u8
 #EXTINF:0,Latina TV
 http://190.13.81.218:18000/play/a08p
 #EXTINF:0,RPP TV
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/RPP/playlist.m3u8?nimblesessionid=288680256
+http://38.183.183.249:8000/play/a0ew/index.m3u8
 #EXTINF:0,America TV
 http://190.13.81.218:18000/play/a08o
 #EXTINF:-1,Panamericana
 http://bantel-cdn4.iptvperu.tv:1935/emM922/panamericana.stream/playlist.m3u8
 #EXTINF:0,Exitosa
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/exitosa.stream/playlist.m3u8?nimblesessionid=288683159
+http://38.183.183.249:8000/play/a0fb/index.m3u8
 #EXTINF:0,TV PERU
-http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/tvperu.stream/playlist.m3u8?nimblesessionid=288683131
+http://38.183.183.249:8000/play/a0eo/index.m3u8
 #EXTINF:-1,Canal N
 http://190.187.200.242:8000/play/a0cf/index.m3u8
 #EXTINF:0,Atv
