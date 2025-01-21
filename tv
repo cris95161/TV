@@ -16,7 +16,7 @@ http://38.183.183.249:8000/play/a0eo/index.m3u8
 #EXTINF:-1,Canal N
 http://190.187.200.242:8000/play/a0cf/index.m3u8
 #EXTINF:0,Atv
-http://bantel-cdn4.iptvperu.tv:1935/YNbWz9/atv.stream/playlist.m3u8
+https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 #EXTINF:0,Tlnovelas
 http://190.61.116.155:7000/play/a042
 #EXTINF:0,Pasiones HD
