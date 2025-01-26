@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:0,Willax
-http://38.183.183.249:8000/play/a0fc/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:0,Latina TV
-http://190.13.81.218:18000/play/a08p
+http://38.187.3.110:8000/play/a07u/index.m3u8
 #EXTINF:0,RPP TV
-http://38.183.183.249:8000/play/a0ew/index.m3u8
+http://38.56.113.170:8000/play/a05o/index.m3u8
 #EXTINF:0,America TV
-http://190.13.81.218:18000/play/a08o
+http://38.187.3.110:8000/play/a07t/index.m3u8
 #EXTINF:-1,Panamericana
 http://bantel-cdn4.iptvperu.tv:1935/emM922/panamericana.stream/playlist.m3u8
 #EXTINF:0,Exitosa
-http://38.183.183.249:8000/play/a0fb/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:0,TV PERU
-http://38.183.183.249:8000/play/a0eo/index.m3u8
+http://38.56.113.170:8000/play/a02c/index.m3u8
 #EXTINF:-1,Canal N
-http://190.187.200.242:8000/play/a0cf/index.m3u8
+http://38.187.3.110:8000/play/a06c/index.m3u8
 #EXTINF:0,Atv
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 #EXTINF:0,Tlnovelas
@@ -27,129 +27,20 @@ http://190.61.116.155:7000/play/a043
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0,Azteca Uno
-http://45.5.117.57:8300/play/a08g/index.m3u8
 #EXTINF:0,Imagen Tv
 https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
-#EXTINF:0,Telemundo
-http://181.114.57.246:4000/play/NnnBAHA2yQc4AG82/index.m3u8
-#EXTINF:0,Univision
-http://181.78.106.127:9000/play/ca006/index.m3u8
-#EXTINF:-1,Canal 5
-http://181.78.106.127:9000/play/ca012/index.m3u8
-#EXTINF:-1,Azteca 7
-http://181.78.106.127:9000/play/ca023/index.m3u8
-#EXTINF:-1,TLN USA
-http://181.78.106.127:9000/play/ca013/index.m3u8
-#EXTINF:-1,Karibeña
-http://bantel-cdn1.iptvperu.tv:1935/cdnrhj/karibena.stream/playlist.m3u8
-#EXTINF:-1,Musica Peru
-http://bantel-cdn1.iptvperu.tv:1935/cdnrhj/mimusicaperu/playlist.m3u8
 #EXTINF:-1,RETRO TV
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 #EXTINF:-1,Memorias tv
 https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 #EXTINF:-1,Memorias Classic
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1,Bitt
+https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
 #EXTINF:-1,Top Latino
-http://bantel-cdn1.iptvperu.tv:1935/cdnrhj/toplatino.stream/playlist.m3u8
-#EXTINF:-1,Rumba tv
-http://bantel-cdn1.iptvperu.tv:1935/cdnrhj/rumbatv.stream/playlist.m3u8
-#EXTINF:-1,Mix tv
-http://bantel-cdn1.iptvperu.tv:1935/astralocal/MixMusica/playlist.m3u8
-#EXTINF:-1,ETC HD
-http://45.169.163.83:8000/play/a1af
-#EXTINF:-1,AS HD
-http://190.13.81.218:18000/play/a098
-#EXTINF:-1,AMC HD
-http://190.13.81.218:18000/play/a064
-#EXTINF:-1,AXN HD
-http://190.13.81.218:18000/play/a093
-#EXTINF:-1,CINE FAMILIAR
-http://190.13.81.218:18000/play/a005
-#EXTINF:-1,CINE HISPANO
-http://190.13.81.218:18000/play/a006
-#EXTINF:-1,CINE PREMIUM
-http://190.13.81.218:18000/play/a007
-#EXTINF:-1,Cinecanal HD
-http://190.13.81.218:18000/play/a08t
-#EXTINF:-1,Cinemax HD
-http://190.13.81.218:18000/play/a09b
-#EXTINF:-1,Clover HD
-http://190.13.81.218:18000/play/a02i
-#EXTINF:-1,Comedy Central HD
-http://190.13.81.218:18000/play/a096
-#EXTINF:-1,Disney HD
-http://190.13.81.218:18000/play/a08r
-#EXTINF:-1,Disney Junior
-http://190.13.81.218:18000/play/a087
-#EXTINF:-1,FX HD
-http://190.13.81.218:18000/play/a09t
-#EXTINF:-1,Golden HD
-http://190.13.81.218:18000/play/a02f
-#EXTINF:-1,HBO 2 HD
-http://190.13.81.218:18000/play/a06c
-#EXTINF:-1,HBO Family HD
-http://190.13.81.218:18000/play/a099
-#EXTINF:-1,HBO HD
-http://190.13.81.218:18000/play/a08u
-#EXTINF:-1,HBO XTREME HD
-http://190.13.81.218:18000/play/a09a
-#EXTINF:-1,Kanal D Drama HD
-http://190.13.81.218:18000/play/a067
-#EXTINF:-1,Las Estrellas HD
-http://190.13.81.218:18000/play/a06w
-#EXTINF:-1,Lolly Kids HD
-http://190.13.81.218:18000/play/a0a9
-#EXTINF:-1,MTV HD
-http://190.13.81.218:18000/play/a06u
-#EXTINF:-1,MTV LIVE HD
-http://190.13.81.218:18000/play/a086
-#EXTINF:-1,MUSICA POPULAR
-http://190.13.81.218:18000/play/a001
-#EXTINF:-1,MUSICA REGGAETON
-http://190.13.81.218:18000/play/a002
-#EXTINF:-1,MUSICA REGIONAL
-http://190.13.81.218:18000/play/a004
-#EXTINF:-1,MUSICA SALSA
-http://190.13.81.218:18000/play/a003
-#EXTINF:-1,Nick HD
-http://190.13.81.218:18000/play/a07l
-#EXTINF:-1,Nick Jr
-http://190.13.81.218:18000/play/a03s
-#EXTINF:-1,Paramount HD
-http://190.13.81.218:18000/play/a08n
-#EXTINF:-1,Pasiones HD
-http://190.13.81.218:18000/play/a094
-#EXTINF:-1,SIN LIMITES
-http://190.13.81.218:18000/play/a07w
-#EXTINF:-1,STAR CHANNEL HD
-http://190.13.81.218:18000/play/a0ab
-#EXTINF:-1,STAR CHANNEL HD
-http://190.13.81.218:18000/play/a09s
-#EXTINF:-1,STAR CHANNEL HD
-http://190.13.81.218:18000/play/a02l
-#EXTINF:-1,Sony HD
-http://190.13.81.218:18000/play/a092
-#EXTINF:-1,Sony HD
-http://190.13.81.218:18000/play/a08y
-#EXTINF:-1,Sony Movies
-http://190.13.81.218:18000/play/a08i
-#EXTINF:-1,Space HD
-http://190.13.81.218:18000/play/a07h
-#EXTINF:-1,Stingray Concerts HD
-http://190.13.81.218:18000/play/a02o
-#EXTINF:-1,Studio Universal HD
-http://190.13.81.218:18000/play/a06b
-#EXTINF:-1,TCM
-http://190.13.81.218:18000/play/a04h
-#EXTINF:-1,TNT HD
-http://190.13.81.218:18000/play/a072
-#EXTINF:-1,TNT Novelas HD
-http://190.13.81.218:18000/play/a06n
-#EXTINF:-1,TNT Series HD
-http://190.13.81.218:18000/play/a09w
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://190.13.81.218:18000/play/a085
-#EXTINF:-1,Warner Channel HD
-http://190.13.81.218:18000/play/a07f
+https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
+#EXTINF:-1,CreoTv
+https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
+
+
+
