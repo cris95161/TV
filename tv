@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:0,Willax
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+http://200.121.48.5:8081/play/a0ct/index.m3u8
 #EXTINF:0,Latina TV
-http://38.187.3.110:8000/play/a07u/index.m3u8
+http://190.216.162.153:8001/play/a04k/index.m3u8
 #EXTINF:0,RPP TV
-http://38.56.113.170:8000/play/a05o/index.m3u8
+http://200.121.48.5:8081/play/a0kp/index.m3u8
 #EXTINF:0,America TV
-http://38.187.3.110:8000/play/a07t/index.m3u8
+http://190.216.162.153:8001/play/a04i/index.m3u8
 #EXTINF:-1,Panamericana
-http://bantel-cdn4.iptvperu.tv:1935/emM922/panamericana.stream/playlist.m3u8
+http://200.121.48.5:8081/play/a09l/index.m3u8
 #EXTINF:0,Exitosa
-https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
+http://200.121.48.5:8081/play/a0ko/index.m3u8
 #EXTINF:0,TV PERU
 http://38.56.113.170:8000/play/a02c/index.m3u8
 #EXTINF:-1,Canal N
-http://38.187.3.110:8000/play/a06c/index.m3u8
+http://200.121.48.5:8081/play/a09m/index.m3u8
 #EXTINF:0,Atv
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 #EXTINF:0,Tlnovelas
 http://190.61.116.155:7000/play/a042
 #EXTINF:0,Pasiones HD
-http://190.61.116.155:7000/play/a00u
+http://190.216.162.153:8001/play/a08o/index.m3u8
 #EXTINF:0,DISTRITO COMEDIA HD
 http://190.61.116.155:7000/play/a043
 #EXTINF:-1,GLOBAL HD
@@ -28,19 +28,80 @@ http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0,Imagen Tv
-https://cdn1.sba.cdn.moderntv.eu:7908/sba/stream/IMAGEN/40-hls/live-media.m3u8
+http://fastream.xyz:8080/antonio3772ara/araya56349anto/59633
 #EXTINF:-1,RETRO TV
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8
 #EXTINF:-1,Memorias tv
 https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 #EXTINF:-1,Memorias Classic
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1,Bitt
-https://live-evg25.tv360.bitel.com.pe/bitel/bitt/chunks.m3u8
 #EXTINF:-1,Top Latino
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
-#EXTINF:-1,CreoTv
-https://live-evg25.tv360.bitel.com.pe/bitel/creo/chunks.m3u8
-
-
-
+#EXTINF:-1,KARIBEÑA
+http://200.121.48.5:8081/play/a0kt/index.m3u8
+#EXTINF:-1,AMC HD
+http://190.216.162.153:8001/play/a06y/index.m3u8
+#EXTINF:-1,AXN HD
+http://201.217.246.177:8000/play/a05f/index.m3u8
+#EXTINF:-1,Adult swim HD
+http://201.217.246.177:8000/play/a0a5/index.m3u8
+#EXTINF:-1,Cinecanal HD
+http://201.217.246.177:8000/play/a07b/index.m3u8
+#EXTINF:-1,Comedy Central HD
+http://201.217.246.177:8000/play/a02x/index.m3u8
+#EXTINF:-1,Cinemax HD
+http://190.216.162.153:8001/play/a08i/index.m3u8
+#EXTINF:-1,FX HD
+http://201.217.246.177:8000/play/a02v/index.m3u8
+#EXTINF:-1,Golden HD
+http://190.216.162.153:8001/play/a08k/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://190.216.162.153:8001/play/a07l/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://190.216.162.153:8001/play/a08m/index.m3u8
+#EXTINF:-1,HBO HD
+http://190.216.162.153:8001/play/a03y/index.m3u8
+#EXTINF:-1,HBO POP HD
+http://190.216.162.153:8001/play/a040/index.m3u8
+#EXTINF:-1,HBO Plus
+http://190.216.162.153:8001/play/a081/index.m3u8
+#EXTINF:-1,HBO XTREME HD
+http://190.216.162.153:8001/play/a08f/index.m3u8
+#EXTINF:-1,MTV
+http://200.121.48.5:8081/play/a0iz/index.m3u8
+#EXTINF:-1,MTV×00
+http://201.217.246.177:8000/play/a053/index.m3u8
+#EXTINF:-1,Paramount HD
+http://201.217.246.177:8000/play/a02y/index.m3u8
+#EXTINF:-1,Sony HD
+http://201.217.246.177:8000/play/a05d/index.m3u8
+#EXTINF:-1,Sony Movies HD
+http://201.217.246.177:8000/play/a05k/index.m3u8
+#EXTINF:-1,Space HD
+http://201.217.246.177:8000/play/a02w/index.m3u8
+#EXTINF:-1,Star Channel HD
+http://201.217.246.177:8000/play/a079/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://190.216.162.153:8001/play/a07h/index.m3u8
+#EXTINF:-1,TNT HD
+http://190.216.162.153:8001/play/a048/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+http://201.217.246.177:8000/play/a07g/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://201.217.246.177:8000/play/a07e/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://190.216.162.153:8001/play/a07i/index.m3u8
+#EXTINF:-1,Warner Channel HD
+http://190.216.162.153:8001/play/a03t/index.m3u8
+#EXTINF:-1,Kanal D Drama Hd
+http://190.216.162.153:8001/play/a07r/index.m3u8
+#EXTINF:-1,L1MAX
+http://190.216.162.153:8001/play/a05l/index.m3u8
+#EXTINF:-1,Movistar Deportes HD
+http://190.216.162.153:8001/play/a03e/index.m3u8
+#EXTINF:-1,Nick HD
+http://200.121.48.5:8081/play/a0ke/index.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://200.121.48.5:8081/play/a0kf/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://201.217.246.177:8000/play/a02r/index.m3u8
