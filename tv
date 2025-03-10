@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Willax
-http://200.121.48.5:8081/play/a0ct/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:0,Latina TV
 http://200.121.48.5:8081/play/a0fu/index.m3u8
 #EXTINF:0,RPP TV
