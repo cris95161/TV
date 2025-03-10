@@ -2,11 +2,11 @@
 #EXTINF:0,Willax
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:0,Latina TV
-http://200.121.48.5:8081/play/a0fu/index.m3u8
+http://181.119.93.57:7172/play/a0o6/index.m3u8
 #EXTINF:0,RPP TV
 http://200.121.48.5:8081/play/a0kp/index.m3u8
 #EXTINF:0,America TV
-http://200.121.48.5:8081/play/a0dh/index.m3u8
+http://181.119.93.57:7172/play/a0o5/index.m3u8
 #EXTINF:-1,Panamericana
 http://200.121.48.5:8081/play/a09l/index.m3u8
 #EXTINF:0,Exitosa
