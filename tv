@@ -2,27 +2,27 @@
 #EXTINF:0,Willax
 https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
 #EXTINF:0,Latina TV
-http://181.119.93.57:7172/play/a0o6/index.m3u8
+http://179.63.36.2:8000/play/a0q2/index.m3u8
 #EXTINF:0,RPP TV
 http://200.121.48.5:8081/play/a0kp/index.m3u8
 #EXTINF:0,America TV
-http://181.119.93.57:7172/play/a0o5/index.m3u8
+http://179.63.36.2:8000/play/a0q0/index.m3u8
 #EXTINF:-1,Panamericana
 http://200.121.48.5:8081/play/a09l/index.m3u8
 #EXTINF:0,Exitosa
-http://200.121.48.5:8081/play/a0ko/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:0,TV PERU
-http://38.56.113.170:8000/play/a02c/index.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1,Canal N
 http://200.121.48.5:8081/play/a09m/index.m3u8
 #EXTINF:0,Atv
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 #EXTINF:0,Tlnovelas
-http://190.61.116.155:7000/play/a042
+http://138.84.49.213:18000/play/a06r/index.m3u8
 #EXTINF:0,Pasiones HD
-http://190.216.162.153:8001/play/a08o/index.m3u8
+http://186.96.97.180:18000/play/a0au
 #EXTINF:0,DISTRITO COMEDIA HD
-http://190.61.116.155:7000/play/a043
+http://181.48.150.203:8000/play/a0me/index.m3u8
 #EXTINF:-1,GLOBAL HD
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
@@ -38,7 +38,7 @@ https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1,Top Latino
 https://live-evg25.tv360.bitel.com.pe/bitel/toplatino/chunks.m3u8
 #EXTINF:-1,KARIBEÑA
-http://200.121.48.5:8081/play/a0kt/index.m3u8
+https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 #EXTINF:-1,AMC HD
 http://190.216.162.153:8001/play/a06y/index.m3u8
 #EXTINF:-1,AXN HD
@@ -56,17 +56,13 @@ http://201.217.246.177:8000/play/a02v/index.m3u8
 #EXTINF:-1,Golden HD
 http://190.216.162.153:8001/play/a08k/index.m3u8
 #EXTINF:-1,HBO 2 HD
-http://190.216.162.153:8001/play/a07l/index.m3u8
+http://179.63.36.2:8000/play/a0jq/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://190.216.162.153:8001/play/a08m/index.m3u8
+http://179.63.36.2:8000/play/a0pq/index.m3u8
 #EXTINF:-1,HBO HD
-http://190.216.162.153:8001/play/a03y/index.m3u8
-#EXTINF:-1,HBO POP HD
-http://190.216.162.153:8001/play/a040/index.m3u8
-#EXTINF:-1,HBO Plus
-http://190.216.162.153:8001/play/a081/index.m3u8
+http://179.63.36.2:8000/play/a0py/index.m3u8
 #EXTINF:-1,HBO XTREME HD
-http://190.216.162.153:8001/play/a08f/index.m3u8
+http://179.63.36.2:8000/play/a0pr/index.m3u8
 #EXTINF:-1,MTV
 http://200.121.48.5:8081/play/a0iz/index.m3u8
 #EXTINF:-1,MTV×00
@@ -97,11 +93,9 @@ http://190.216.162.153:8001/play/a03t/index.m3u8
 http://190.216.162.153:8001/play/a07r/index.m3u8
 #EXTINF:-1,L1MAX
 http://190.216.162.153:8001/play/a05l/index.m3u8
-#EXTINF:-1,Movistar Deportes HD
-http://190.216.162.153:8001/play/a03e/index.m3u8
 #EXTINF:-1,Nick HD
 http://200.121.48.5:8081/play/a0ke/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://200.121.48.5:8081/play/a0kf/index.m3u8
 #EXTINF:-1,Disney Channel HD
-http://201.217.246.177:8000/play/a02r/index.m3u8
+http://138.84.49.213:18000/play/a035/index.m3u8
