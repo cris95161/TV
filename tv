@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Willax
-https://live-evg25.tv360.bitel.com.pe/bitel/willax/bitel/willax_ori_source/chunks.m3u8
+http://190.234.242.31:8000/play/a1009/index.m3u8
 #EXTINF:0,Latina TV
 http://200.121.48.5:8081/play/a0fu/index.m3u8
 #EXTINF:0,RPP TV
@@ -14,7 +14,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chu
 #EXTINF:0,TV PERU
 https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 #EXTINF:-1,Canal N
-http://200.121.48.5:8081/play/a09m/index.m3u8
+http://190.234.242.31:8000/play/a0e1/index.m3u8
 #EXTINF:0,Atv
 https://d19e55ehz2il4i.cloudfront.net/original.m3u8
 #EXTINF:0,Tlnovelas
@@ -27,6 +27,8 @@ http://181.48.150.203:8000/play/a0me/index.m3u8
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,Movistar Deportes
+http://190.234.242.31:8000/play/a0e0/index.m3u8
 #EXTINF:0,Imagen Tv
 http://fastream.xyz:8080/antonio3772ara/araya56349anto/59633
 #EXTINF:-1,RETRO TV
@@ -55,14 +57,12 @@ http://190.216.162.153:8001/play/a08i/index.m3u8
 http://201.217.246.177:8000/play/a02v/index.m3u8
 #EXTINF:-1,Golden HD
 http://190.216.162.153:8001/play/a08k/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://179.63.36.2:8000/play/a0jq/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://179.63.36.2:8000/play/a0pq/index.m3u8
+http://201.230.15.121:8000/play/hbofamilyhd
 #EXTINF:-1,HBO HD
-http://179.63.36.2:8000/play/a0py/index.m3u8
-#EXTINF:-1,HBO XTREME HD
-http://179.63.36.2:8000/play/a0pr/index.m3u8
+http://201.230.15.121:8000/play/hbohd
+#EXTINF:-1,HBO POP HD
+http://201.230.15.121:8000/play/hbopophd
 #EXTINF:-1,MTV
 http://200.121.48.5:8081/play/a0iz/index.m3u8
 #EXTINF:-1,MTV×00
@@ -94,8 +94,8 @@ http://190.216.162.153:8001/play/a07r/index.m3u8
 #EXTINF:-1,L1MAX
 http://190.216.162.153:8001/play/a05l/index.m3u8
 #EXTINF:-1,Nick HD
-http://200.121.48.5:8081/play/a0ke/index.m3u8
+http://216.122.181.10:8081/play/a0kf/index.m3u8
 #EXTINF:-1,Cartoon Network HD
-http://200.121.48.5:8081/play/a0kf/index.m3u8
+http://191.97.108.190:18000/play/a083/index.m3u8
 #EXTINF:-1,Disney Channel HD
 http://138.84.49.213:18000/play/a035/index.m3u8
