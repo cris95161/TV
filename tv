@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0,Willax
-http://190.234.242.31:8000/play/a1009/index.m3u8
+http://190.108.85.154:8000/play/a03m/index.m3u8
 #EXTINF:0,Latina TV
-http://200.121.48.5:8081/play/a0fu/index.m3u8
+http://45.173.229.190:8083/play/a0kc/index.m3u8
 #EXTINF:0,RPP TV
-http://200.121.48.5:8081/play/a0kp/index.m3u8
+http://190.234.242.31:8000/play/a0e2/index.m3u8
 #EXTINF:0,America TV
-http://200.121.48.5:8081/play/a0dh/index.m3u8
+http://45.173.229.190:8083/play/a0ka/index.m3u8
 #EXTINF:-1,Panamericana
 http://200.121.48.5:8081/play/a09l/index.m3u8
 #EXTINF:0,Exitosa
