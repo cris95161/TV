@@ -8,7 +8,7 @@ http://190.234.242.31:8000/play/a0e2/index.m3u8
 #EXTINF:0,America TV
 http://8.243.64.35:8002/play/a03l/index.m3u8
 #EXTINF:-1,Panamericana
-http://200.121.48.5:8081/play/a09l/index.m3u8
+evg25.tv360.bitel.com.pe/bitel/panamericana/bitel/panamericana_ori_source/chunks.m3u8
 #EXTINF:0,Exitosa
 https://live-evg25.tv360.bitel.com.pe/bitel/exitosa/bitel/exitosa_ori_source/chunks.m3u8
 #EXTINF:0,TV PERU
