@@ -2,7 +2,7 @@
 #EXTINF:0,Willax
 https://live2.eu-north-1a.cf.dmcdn.net/sec2(_zxI6nNDcw3umO9ShlKYki3zwAsUg0K1JCmOSrwowMp_J9JkiilIgvXRDfolG6r83_NVCwMVaPiMu2_0SNwR8KZTpdf5Zuw7bcoQEOm5b2QZmdAroqZOyN6t6M2NyfPQ)/cloud/3/x7x4dgx/s/live-1080.m3u8
 #EXTINF:0,Latina TV
-http://179.63.6.12:9000/play/a00f
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/latina/livestream0/chunks.m3u8?dpssid=b263462359367f5c0279e03c&sid=ba5t1l1xb21178602375682e3be5f2f97&ndvc=0
 #EXTINF:0,Latina Noticias
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b263462359367f5c0279e03c&sid=ba5t1l1xb213577827306801dd2e84373&ndvc=0
 #EXTINF:0,America TV
@@ -47,7 +47,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/karibe%C3%B1atv/chunks.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/novatv/chunks.m3u8
 #EXTINF:-1,AXN HD 
 http://190.95.60.228:8500/play/a018
-#EXTINF:-1Adult swim HD 
+#EXTINF:-1,Adult swim HD 
 http://190.95.60.228:8500/play/a045
 #EXTINF:-1,Cartoon Network HD 
 http://190.95.60.228:8500/play/a03u
