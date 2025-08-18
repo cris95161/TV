@@ -109,18 +109,8 @@ http://143.255.87.30:8003/play/a00t/index.m3u8
 http://143.255.87.30:8003/play/a03c/index.m3u8
 #EXTINF:0,MTV HD
 http://143.255.87.30:8003/play/a012/index.m3u8
-#EXTINF:0,MTV LIVE HD
-http://143.255.87.30:8003/play/a02g/index.m3u8
-#EXTINF:0,NICK MUSIC
-http://143.255.87.30:8003/play/a02t/index.m3u8
 #EXTINF:0,STUDIO UNIVERSAL HD
 http://143.255.87.30:8003/play/a00r/index.m3u8
-#EXTINF:0,Telemundo
-http://143.255.87.30:8003/play/a056/index.m3u8
-#EXTINF:0,TELENOVELAS
-http://143.255.87.30:8003/play/a022/index.m3u8
-#EXTINF:0,TOONCAST
-http://143.255.87.30:8003/play/a02v/index.m3u8
 #EXTINF:-1,FX HD
 http://186.194.160.110:9002/play/a0c2/index.m3u8
 #EXTINF:-1,Golden HD
