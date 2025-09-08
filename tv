@@ -8,7 +8,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:0,America TV
 http://190.108.80.138:8000/play/a07j/index.m3u8
 #EXTINF:0,Panamericana
-http://190.108.80.138:8000/play/a035/index.m3u8
+http://217.26.190.76:8888/play/a0bs/index.m3u8
 #EXTINF:0,Exitosa HD
 http://201.230.121.85:8000/play/a0zr/index.m3u8
 #EXTINF:0,TV PERU
