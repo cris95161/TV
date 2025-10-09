@@ -33,8 +33,6 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 #EXTINF:-1,Memorias Classic
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
-#EXTINF:-1,KARIBEÑA
-http://201.77.61.226:8001/play/a0iw/index.m3u8
 #EXTINF:-1,TOP LATINO
 http://201.77.61.226:8001/play/a0ak/index.m3u8
 #EXTINF:-1,URBAN TV
