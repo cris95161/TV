@@ -8,7 +8,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:0,America
 http://201.77.61.226:8001/play/a0fi/index.m3u8
 #EXTINF:0,Panamericana
-http://217.26.190.76:8888/play/a0bs/index.m3u8
+http://45.173.75.4:2061/play/a07b
 #EXTINF:0,Exitosa HD
 http://201.230.121.85:8000/play/a0zr/index.m3u8
 #EXTINF:0,TV PERU
@@ -16,7 +16,7 @@ http://45.173.75.4:2061/play/a07d
 #EXTINF:-1,Canal N
 http://201.230.121.85:8000/play/a0l4/index.m3u8
 #EXTINF:0,Atv
-https://d2qsan2ut81n2k.cloudfront.net/live/25046411-8673-4dec-8ae8-5b41984f34e1/medialist_15609871089997455276_hls.m3u8
+http://45.173.75.4:2061/play/a07c
 #EXTINF:0,RPP TV
 http://201.77.61.226:8001/play/a0fc/index.m3u8
 #EXTINF:0,Tlnovelas
