@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:0,Willax
-http://201.77.61.226:8001/play/a0gp/index.m3u8
+http://8.243.126.131:8000/play/a01s/index.m3u8
 #EXTINF:0,Latina
-http://45.173.75.4:2061/play/a09y
+http://8.243.126.131:8000/play/a001/index.m3u8
 #EXTINF:0,Latina Noticias
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?
 #EXTINF:0,America
-http://201.77.61.226:8001/play/a0fi/index.m3u8
+http://8.243.126.131:8000/play/a01q/index.m3u8
 #EXTINF:0,Panamericana
-http://45.173.75.4:2061/play/a07b
+http://8.243.126.131:8000/play/a01r/index.m3u8
 #EXTINF:0,Exitosa HD
-http://201.230.121.85:8000/play/a0zr/index.m3u8
+http://8.243.126.131:8000/play/a01w/index.m3u8
 #EXTINF:0,TV PERU
-http://45.173.75.4:2061/play/a07d
+http://8.243.126.131:8000/play/a04k/index.m3u8
 #EXTINF:-1,Canal N
-http://201.230.121.85:8000/play/a0l4/index.m3u8
+http://8.243.126.131:8000/play/a058/index.m3u8
 #EXTINF:0,Atv
-http://45.173.75.4:2061/play/a07c
+http://8.243.126.131:8000/play/a01z/index.m3u8
 #EXTINF:0,RPP TV
-http://201.77.61.226:8001/play/a0fc/index.m3u8
+https://dai.google.com/linear/hls/pa/event/T4-TqvB_S1e4oVP9QbO6VQ/stream/4ed9d98d-0dd1-4eb1-9765-c02267eabee2:TUL/variant/a2607c6664646f749075611cdead23a0/bandwidth/3772022.m3u8
 #EXTINF:0,Tlnovelas
 http://181.78.109.191:1050/play/a0gv/index.m3u8
 #EXTINF:0,Las Estrellas Mexico
