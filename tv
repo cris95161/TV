@@ -14,7 +14,7 @@ http://38.252.213.12:8000/play/a05d
 #EXTINF:0,TV PERU
 http://38.252.213.12:8000/play/a05q
 #EXTINF:-1,Canal N
-http://8.243.126.131:8000/play/a058/index.m3u8
+http://38.188.100.18:8000/play/a05q/index.m3u8
 #EXTINF:0,Atv
 http://38.252.213.12:8000/play/a02q
 #EXTINF:0,RPP TV
