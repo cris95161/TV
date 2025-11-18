@@ -39,8 +39,6 @@ http://181.13.112.203:8100/play/a07g/index.m3u8
 http://38.159.227.124:8000/play/a04t/index.m3u8
 #EXTINF:0,Imagen Tv
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:0,DISTRITO COMEDIA HD
-http://181.78.109.191:1050/play/a0gv/index.m3u8
 #EXTINF:-1,Memorias Corazon
 https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 #EXTINF:-1,Memorias 90s
