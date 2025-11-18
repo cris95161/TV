@@ -37,6 +37,8 @@ http://38.210.105.10:8000/play/a0c0/index.m3u8
 http://181.13.112.203:8100/play/a07g/index.m3u8
 #EXTINF:0,Telemundo HD
 http://38.159.227.124:8000/play/a04t/index.m3u8
+#EXTINF:0,Energeek
+https://backend.energeek.cl/webtv/egretroweb/index.m3u8
 #EXTINF:0,Imagen Tv
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:-1,Memorias 90s
@@ -45,6 +47,10 @@ https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 #EXTINF:-1,Memorias Classic
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
+#EXTINF:-1,Retro Plus
+https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1,Recuerdos Tv
+https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1,Telenostalgia
 http://38.252.213.12:8000/play/a00d
 #EXTINF:-1,TOP LATINO
