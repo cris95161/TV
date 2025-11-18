@@ -13,7 +13,7 @@ http://38.252.215.33:8000/play/a08k/index.m3u8
 http://38.252.213.12:8000/play/a05d
 #EXTINF:0,TV PERU
 http://38.252.213.12:8000/play/a05q
-#EXTINF:-1,Canal N
+#EXTINF:-1,Canal N HD
 http://38.188.100.18:8000/play/a05q/index.m3u8
 #EXTINF:0,Atv
 http://38.252.213.12:8000/play/a02q
