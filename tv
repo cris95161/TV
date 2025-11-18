@@ -39,10 +39,10 @@ http://181.13.112.203:8100/play/a07g/index.m3u8
 http://38.159.227.124:8000/play/a04t/index.m3u8
 #EXTINF:0,Imagen Tv
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:-1,Memorias Corazon
-https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 #EXTINF:-1,Memorias 90s
 https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
+#EXTINF:-1,Memorias Corazon
+https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
 #EXTINF:-1,Memorias Classic
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1,Telenostalgia
