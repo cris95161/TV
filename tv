@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Willax
-http://38.210.105.10:8000/play/a0a6/index.m3u8
+http://8.243.126.131:8000/play/a01s/index.m3u8
 #EXTINF:0,Latina
 http://38.210.105.10:8000/play/a0c2/index.m3u8
 #EXTINF:0,Latina Noticias
@@ -66,7 +66,7 @@ http://190.61.55.34:2401/play/a050/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://181.13.112.203:8100/play/a07b/index.m3u8
 #EXTINF:-1,Cinemax HD
-http://38.210.105.10:8000/play/a082/index.m3u8
+http://181.119.85.222:8000/play/a03r/index.m3u8
 #EXTINF:-1,Clover HD
 http://8.243.126.131:8000/play/a057/index.m3u8
 #EXTINF:-1,HBO HD
@@ -102,7 +102,7 @@ http://181.13.112.203:8100/play/a07e/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://181.13.112.203:8100/play/a05e/index.m3u8
 #EXTINF:-1,LIFETIME HD
-http://38.52.208.106:8000/play/a01c/index.m3u8
+http://190.104.67.56:234/play/a07l/index.m3u8
 #EXTINF:-1,Multipremier
 http://45.173.201.51:4000/play/a0nm/index.m3u8
 #EXTINF:-1,TCM
