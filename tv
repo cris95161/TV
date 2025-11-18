@@ -21,18 +21,20 @@ http://38.252.213.12:8000/play/a02q
 http://45.173.201.51:4000/play/a07i/index.m3u8
 #EXTINF:0,TELELIMA
 https://live.telelima.net/TL_GRUPO-MVCE/tracks-v1a1/mono.m3u8
-#EXTINF:0,Las Estrellas Mexico
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1,LIGA 1 MAX HD
+http://8.243.126.131:8000/play/a063/index.m3u8
 #EXTINF:-1,GLOBAL HD
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
-#EXTINF:-1,TNT Novelas HD
-http://181.13.112.203:8100/play/a07g/index.m3u8
+#EXTINF:0,Las Estrellas Mexico
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0,Tlnovelas
 http://181.78.109.191:1050/play/a0gv/index.m3u8
 #EXTINF:-1,Pasiones HD
 http://38.210.105.10:8000/play/a02l/index.m3u8
 #EXTINF:-1,KANAL D DRAMA
 http://38.210.105.10:8000/play/a0c0/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+http://181.13.112.203:8100/play/a07g/index.m3u8
 #EXTINF:0,Telemundo HD
 http://38.159.227.124:8000/play/a04t/index.m3u8
 #EXTINF:0,Imagen Tv
@@ -47,14 +49,10 @@ https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 #EXTINF:-1,Telenostalgia
 http://38.252.213.12:8000/play/a00d
-#EXTINF:-1,Karibeña
-http://38.210.105.10:8000/play/a0a0/index.m3u8
 #EXTINF:-1,TOP LATINO
 http://201.77.61.226:8001/play/a0ak/index.m3u8
 #EXTINF:-1,URBAN TV
 http://148.72.155.144:8000/play/a00q/index.m3u8
-#EXTINF:-1,LIGA 1 MAX HD
-http://8.243.126.131:8000/play/a063/index.m3u8
 #EXTINF:-1,Adult swim HD
 http://181.13.112.203:8100/play/a0dd/index.m3u8
 #EXTINF:-1,Comedy Central HD
