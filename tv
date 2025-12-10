@@ -29,6 +29,8 @@ http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0,Imagen Tv
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+#EXTINF:0,Distrito Comedia
+http://181.78.109.48:9998/play/a06k/index.m3u8
 #EXTINF:0,Tlnovelas
 http://181.78.109.191:1050/play/a0gv/index.m3u8
 #EXTINF:-1,Pasiones HD
@@ -41,6 +43,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6661d5424b10960008599f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,Bonita TV
 https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
+#EXTINF:0,ETC CHILE
+http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:-1,Memorias 90s
 https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
 #EXTINF:-1,Memorias Corazon
