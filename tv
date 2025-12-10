@@ -55,8 +55,6 @@ https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1,Recuerdos Tv
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
-#EXTINF:-1,Telenostalgia
-http://38.252.213.12:8000/play/a00d
 #EXTINF:-1,Ponte Love
 http://38.210.105.10:8000/play/a0be/index.m3u8
 #EXTINF:-1,TOP LATINO
@@ -119,12 +117,6 @@ http://190.104.67.56:234/play/a07l/index.m3u8
 http://45.173.201.51:4000/play/a0nm/index.m3u8
 #EXTINF:-1,TCM
 http://38.210.105.10:8000/play/a04s/index.m3u8
-#EXTINF:-1,Classic +
-http://45.173.201.51:4000/play/a06y/index.m3u8
-#EXTINF:-1,OLD CLASSIC
-http://45.173.201.51:4000/play/a0mv/index.m3u8
-#EXTINF:-1,OLD HD
-http://45.173.201.51:4000/play/a0mx/index.m3u8
 #EXTINF:-1,REWIND
 http://38.183.182.201:8000/play/a0x7/index.m3u8
 #EXTINF:-1,CLASSIC SERIES
