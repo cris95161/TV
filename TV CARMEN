@@ -6,7 +6,7 @@ http://45.173.75.4:2061/play/a09y
 #EXTINF:0 group-title="NO VISTÓ",RPP TV
 http://148.222.228.3:9000/play/a05l/index.m3u8
 #EXTINF:0 group-title="NO VISTÓ",America tv
-http://179.1.148.246:8888/play/a090/index.m3u8
+http://201.230.121.186:8000/play/a0pb/index.m3u8
 #EXTINF:0 group-title="NO VISTÓ",Panamericana Tv
 http://45.173.75.4:2061/play/a07b
 #EXTINF:0 group-title="NO VISTÓ",Exitosa Tv
@@ -20,15 +20,13 @@ http://45.173.75.4:2061/play/a07c
 #EXTINF:0 group-title="NO VISTÓ",TLNovelas
 http://181.78.109.191:1050/play/a0gv/index.m3u8
 #EXTINF:0 group-title="NO VISTÓ",Distrito Comedia
-http://181.78.109.191:1050/play/a0g1/index.m3u8
+http://181.78.109.48:9998/play/a06k/index.m3u8
 #EXTINF:0 group-title="NO VISTÓ",Imagen Tv
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:0 group-title="NO VISTÓ",Global Tv
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0 group-title="NO VISTÓ",ETC CHILE
-http://38.250.229.23:8000/play/a0qs
-#EXTINF:0 group-title="NO VISTÓ",Energeek
-https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:0 group-title="NO VISTÓ",Las Estrellas México
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 group-title="NO VISTÓ",Pluto LATAM
