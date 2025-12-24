@@ -50,7 +50,7 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 #EXTINF:0,ETC CHILE
 http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:-1,Memorias Corazon
-http://38.252.213.10:9000/play/a006
+http://187.102.195.131:8000/play/a016/index.m3u8
 #EXTINF:-1,TLNostalgia
 http://190.0.247.38:8000/play/a05c
 #EXTINF:-1,Retro Plus
@@ -61,8 +61,8 @@ http://187.102.195.131:8000/play/a00x/index.m3u8
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1,ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
-#EXTINF:-1,Karibeña
-http://206.84.201.100:8000/play/a02x/index.m3u8
+#EXTINF:-1,Karibeña HD
+http://38.188.100.18:8000/play/a06k/index.m3u8
 #EXTINF:-1,NOVA
 https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
 #EXTINF:-1,Ponte Love
