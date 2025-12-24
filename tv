@@ -20,21 +20,31 @@ http://38.252.213.12:8000/play/a02q
 #EXTINF:0,RPP TV
 http://45.173.201.51:4000/play/a07i/index.m3u8
 #EXTINF:0,TELELIMA
-https://live.telelima.net/TL_GRUPO-MVCE/tracks-v1a1/mono.m3u8
-#EXTINF:-1,LIGA 1 MAX HD
-http://8.243.126.131:8000/play/a063/index.m3u8
+http://38.252.213.10:9000/play/a00c
+#EXTINF:-1,Pasiones HD
+http://201.230.121.186:8000/play/a0of/index.m3u8
 #EXTINF:-1,GLOBAL HD
 http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:0,AZTECA 1
+http://45.186.107.173:8000/play/a05g/index.m3u8
 #EXTINF:0,Imagen Tv
-https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+http://200.92.227.238:8000/play/a0v2/index.m3u8
+#EXTINF:0,Unimas
+http://38.188.186.47:4000/play/a00i
+#EXTINF:0,Univision
+http://38.188.186.47:4000/play/a001
+#EXTINF:0,Estrella tv
+http://38.188.186.47:4000/play/a00p
+#EXTINF:0,Azteca 7
+http://200.92.227.238:8000/play/a0uw/index.m3u8
+#EXTINF:0,Canal 5 MX
+http://168.232.168.242:9999/play/a04r/index.m3u8
 #EXTINF:0,Distrito Comedia
 http://181.78.109.48:9998/play/a06k/index.m3u8
 #EXTINF:0,Tlnovelas
 http://181.78.109.191:1050/play/a0gv/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://201.230.121.186:8000/play/a0of/index.m3u8
 #EXTINF:0,Pluto LATAM
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN
 #EXTINF:0,Pluto USA
@@ -45,16 +55,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6475bfec536e0c0008858e
 https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 #EXTINF:0,ETC CHILE
 http://170.254.229.225:8000/play/a03e/index.m3u8
-#EXTINF:-1,Memorias 90s
-https://cloud2.streaminglivehd.com:1936/8112/8112/playlist.m3u8
 #EXTINF:-1,Memorias Corazon
-https://cloud2.streaminglivehd.com:1936/8126/8126/playlist.m3u8
-#EXTINF:-1,Memorias Classic
-https://cloud2.streaminglivehd.com:1936/8122/8122/playlist.m3u8
+http://38.252.213.10:9000/play/a006
+#EXTINF:-1,TELENOSTALGIA
+http://38.188.186.47:4000/play/a00e
 #EXTINF:-1,Retro Plus
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1,Recuerdos Tv
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1,Karibeña
+http://45.173.201.51:4000/play/a0p2/index.m3u8
 #EXTINF:-1,Ponte Love
 http://38.210.105.10:8000/play/a0be/index.m3u8
 #EXTINF:-1,TOP LATINO
@@ -76,9 +86,9 @@ http://190.61.55.34:2401/play/a050/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://181.13.112.203:8100/play/a07b/index.m3u8
 #EXTINF:-1,Cinemax HD
-http://181.119.85.222:8000/play/a03r/index.m3u8
+http://138.36.253.13:8008/play/a015/index.m3u8
 #EXTINF:-1,Clover HD
-http://8.243.126.131:8000/play/a057/index.m3u8
+http://181.78.4.250:8098/play/a064/index.m3u8
 #EXTINF:-1,HBO HD
 http://38.210.105.10:8000/play/a02e/index.m3u8
 #EXTINF:-1,HBO POP HD
@@ -145,7 +155,7 @@ http://38.210.105.10:8000/play/a02h/index.m3u8
 http://181.13.112.203:8100/play/a02r/index.m3u8
 #EXTINF:-1,Cartoon Network HD
 http://181.13.112.203:8100/play/a075/index.m3u8
-#EXTINF:-1,KANAL D DRAMA
-http://201.230.121.186:8000/play/a0jm/index.m3u8
+#EXTINF:-1,LIGA 1 MAX HD
+http://8.243.126.131:8000/play/a063/index.m3u8
 #EXTINF:-1,TNT Novelas HD
 http://181.13.112.203:8100/play/a07g/index.m3u8
