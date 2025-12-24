@@ -20,7 +20,7 @@ http://38.252.213.12:8000/play/a02q
 #EXTINF:0,RPP TV
 http://45.173.201.51:4000/play/a07i/index.m3u8
 #EXTINF:0,TELELIMA
-http://38.252.213.10:9000/play/a00c
+https://live-evg11.tv360.bitel.com.pe/bitel/telelimaSRT/chunks.m3u8
 #EXTINF:-1,Pasiones HD
 http://201.230.121.186:8000/play/a0of/index.m3u8
 #EXTINF:-1,GLOBAL HD
@@ -28,19 +28,13 @@ http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0,AZTECA 1
-http://45.186.107.173:8000/play/a05g/index.m3u8
+http://200.92.227.238:8000/play/a0v5/index.m3u8
 #EXTINF:0,Imagen Tv
 http://200.92.227.238:8000/play/a0v2/index.m3u8
-#EXTINF:0,Unimas
-http://38.188.186.47:4000/play/a00i
-#EXTINF:0,Univision
-http://38.188.186.47:4000/play/a001
-#EXTINF:0,Estrella tv
-http://38.188.186.47:4000/play/a00p
 #EXTINF:0,Azteca 7
 http://200.92.227.238:8000/play/a0uw/index.m3u8
 #EXTINF:0,Canal 5 MX
-http://168.232.168.242:9999/play/a04r/index.m3u8
+http://200.92.227.238:8000/play/a0v7/index.m3u8
 #EXTINF:0,Distrito Comedia
 http://181.78.109.48:9998/play/a06k/index.m3u8
 #EXTINF:0,Tlnovelas
@@ -57,14 +51,12 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:-1,Memorias Corazon
 http://38.252.213.10:9000/play/a006
-#EXTINF:-1,TELENOSTALGIA
-http://38.188.186.47:4000/play/a00e
 #EXTINF:-1,Retro Plus
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
 #EXTINF:-1,Recuerdos Tv
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
 #EXTINF:-1,Karibeña
-http://45.173.201.51:4000/play/a0p2/index.m3u8
+https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,Ponte Love
 http://38.210.105.10:8000/play/a0be/index.m3u8
 #EXTINF:-1,TOP LATINO
