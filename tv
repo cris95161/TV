@@ -8,7 +8,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda256
 #EXTINF:0,America
 http://201.230.121.186:8000/play/a0pb/index.m3u8
 #EXTINF:0,Panamericana
-http://201.230.121.186:8000/play/a0ov/index.m3u8
+http://206.84.201.100:8000/play/a02u/index.m3u8
 #EXTINF:0,Exitosa HD
 http://38.252.213.12:8000/play/a05d
 #EXTINF:0,TV PERU
@@ -28,13 +28,13 @@ http://bantel-cdn3.iptvperu.tv:1935/fy1uo/global.stream/playlist.m3u8
 #EXTINF:0,Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0,AZTECA 1
-http://200.92.227.238:8000/play/a0v5/index.m3u8
+
 #EXTINF:0,Imagen Tv
 http://200.92.227.238:8000/play/a0v2/index.m3u8
 #EXTINF:0,Azteca 7
 http://200.92.227.238:8000/play/a0uw/index.m3u8
 #EXTINF:0,Canal 5 MX
-http://200.92.227.238:8000/play/a0v7/index.m3u8
+http://200.92.227.238:8000/play/a0uu/index.m3u8
 #EXTINF:0,Distrito Comedia
 http://181.78.109.48:9998/play/a06k/index.m3u8
 #EXTINF:0,Tlnovelas
@@ -51,18 +51,30 @@ https://live-evg25.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:-1,Memorias Corazon
 http://38.252.213.10:9000/play/a006
+#EXTINF:-1,TLNostalgia
+http://190.0.247.38:8000/play/a05c
 #EXTINF:-1,Retro Plus
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8
+#EXTINF:-1,Memorias Classic
+http://187.102.195.131:8000/play/a00x/index.m3u8
 #EXTINF:-1,Recuerdos Tv
 https://panel.tvstream.cl:1936/8034/8034/playlist.m3u8
+#EXTINF:-1,ZCREO TV
+https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
 #EXTINF:-1,Karibeña
-https://live-player.egostreaming.pe/karibenatv_685a-pe-a5676-584412/tracks-v1/index.fmp4.m3u8
+http://206.84.201.100:8000/play/a02x/index.m3u8
+#EXTINF:-1,NOVA
+https://live-evg7.tv360.bitel.com.pe/bitel/NovaSRT/chunks.m3u8
 #EXTINF:-1,Ponte Love
 http://38.210.105.10:8000/play/a0be/index.m3u8
 #EXTINF:-1,TOP LATINO
 http://201.77.61.226:8001/play/a0ak/index.m3u8
+#EXTINF:-1,Telehit
+http://181.78.8.199:8000/play/a0g7/index.m3u8
 #EXTINF:-1,URBAN TV
 http://148.72.155.144:8000/play/a00q/index.m3u8
+#EXTINF:-1,Te Quiero tv
+http://206.84.201.100:8000/play/a031/index.m3u8
 #EXTINF:-1,Adult swim HD
 http://181.13.112.203:8100/play/a0dd/index.m3u8
 #EXTINF:-1,Comedy Central HD
@@ -116,7 +128,7 @@ http://181.13.112.203:8100/play/a05e/index.m3u8
 #EXTINF:-1,LIFETIME HD
 http://190.104.67.56:234/play/a07l/index.m3u8
 #EXTINF:-1,Multipremier
-http://45.173.201.51:4000/play/a0nm/index.m3u8
+http://206.84.201.100:8000/play/a02k/index.m3u8
 #EXTINF:-1,TCM
 http://38.210.105.10:8000/play/a04s/index.m3u8
 #EXTINF:-1,REWIND
