@@ -47,6 +47,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6475bfec536e0c0008858e
 http://45.233.168.222:8000/play/a0id/index.m3u8
 #EXTINF:0,Bonita TV
 http://45.233.168.222:8000/play/a0i9/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+http://38.188.100.18:8000/play/a0h0/index.m3u8
+#EXTINF:-1,Te Quiero tv
+http://206.84.201.100:8000/play/a031/index.m3u8
 #EXTINF:0,Bollywood
 http://45.233.168.222:8000/play/a0i5/index.m3u8
 #EXTINF:0,ETC CHILE
@@ -65,6 +69,8 @@ http://38.210.105.10:8000/play/a0be/index.m3u8
 http://201.77.61.226:8001/play/a0ak/index.m3u8
 #EXTINF:-1,Telehit
 http://181.78.8.199:8000/play/a0g7/index.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://38.188.100.18:8000/play/a0gz/index.m3u8
 #EXTINF:-1,TVC REGUETON
 http://187.102.195.131:8000/play/a00u/index.m3u8
 #EXTINF:-1,Adult swim HD
@@ -105,8 +111,6 @@ http://38.188.100.18:8000/play/a0hj/index.m3u8
 http://38.188.100.18:8000/play/a0hv/index.m3u8
 #EXTINF:-1,MTV HD
 http://38.188.100.18:8000/play/a0h2/index.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://38.188.100.18:8000/play/a0gz/index.m3u8
 #EXTINF:-1,Paramount HD
 http://38.188.100.18:8000/play/a0be/index.m3u8
 #EXTINF:-1,Pasiones HD
@@ -123,10 +127,6 @@ http://38.188.100.18:8000/play/a0hw/index.m3u8
 http://38.188.100.18:8000/play/a0gq/index.m3u8
 #EXTINF:-1,TNT HD
 http://38.188.100.18:8000/play/a0hp/index.m3u8
-#EXTINF:-1,TNT Novelas HD
-http://38.188.100.18:8000/play/a0h0/index.m3u8
-#EXTINF:-1,Te Quiero tv
-http://206.84.201.100:8000/play/a031/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://38.188.100.18:8000/play/a0gw/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
@@ -145,12 +145,12 @@ http://38.183.182.201:8000/play/a0x7/index.m3u8
 http://38.210.105.10:8000/play/a0at/index.m3u8
 #EXTINF:-1,Tooncast
 http://38.210.105.10:8000/play/a083/index.m3u8
-#EXTINF:-1,Animotion HD
-http://45.173.201.51:4000/play/a01e/index.m3u8
 #EXTINF:0,Azteca 7
 http://200.92.227.238:8000/play/a0uw/index.m3u8
 #EXTINF:0,Canal 5 MX
 http://200.92.227.238:8000/play/a0uu/index.m3u8
+#EXTINF:-1,Animotion HD
+http://45.173.201.51:4000/play/a01e/index.m3u8
 #EXTINF:-1,Nick HD
 http://38.188.100.18:8000/play/a0hb/index.m3u8
 #EXTINF:-1,Disney HD
