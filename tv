@@ -96,9 +96,9 @@ http://38.188.100.18:8000/play/a0gx/index.m3u8
 #EXTINF:-1,HBO Plus HD
 http://45.167.1.136:8000/play/a00j
 #EXTINF:-1,HBO Pop HD
-http://38.188.100.18:8000/play/a0ea/index.m3u8
+http://45.186.106.152:8000/play/a0l4/index.m3u8
 #EXTINF:-1,HBO XTREME HD
-http://45.167.1.136:8000/play/a00l
+http://45.186.106.152:8000/play/a0l6/index.m3u8
 #EXTINF:-1,ID HD
 http://38.188.100.18:8000/play/a0hv/index.m3u8
 #EXTINF:-1,MTV HD
@@ -112,7 +112,7 @@ http://38.188.100.18:8000/play/a0i1/index.m3u8
 #EXTINF:-1,Sony HD
 http://38.188.100.18:8000/play/a0hs/index.m3u8
 #EXTINF:-1,Sony Movies HD
-http://38.188.100.18:8000/play/a06w/index.m3u8
+http://45.186.106.152:8000/play/a04g/index.m3u8
 #EXTINF:-1,Space HD
 http://38.188.100.18:8000/play/a0hw/index.m3u8
 #EXTINF:-1,Studio Universal HD
