@@ -34,7 +34,7 @@ http://200.92.227.238:8000/play/a0v2/index.m3u8
 #EXTINF:0,Distrito Comedia
 http://181.78.109.48:9998/play/a06k/index.m3u8
 #EXTINF:0,Tlnovelas
-http://181.78.109.191:1050/play/a0gv/index.m3u8
+http://38.191.80.20:8023/play/a01o
 #EXTINF:0,Pluto LATAM
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN
 #EXTINF:0,Pluto USA
