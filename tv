@@ -69,8 +69,6 @@ http://38.188.100.18:8000/play/a06k/index.m3u8
 http://201.77.61.226:8001/play/a0ak/index.m3u8
 #EXTINF:-1,Telehit
 http://181.78.8.199:8000/play/a0g7/index.m3u8
-#EXTINF:-1,La Kalle
-http://181.78.82.6:46090/play/a03s/index.m3u8
 #EXTINF:-1,TVC REGUETON
 http://187.102.195.131:8000/play/a00u/index.m3u8
 #EXTINF:0,Azteca 7
