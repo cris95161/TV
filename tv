@@ -61,10 +61,10 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?
 #EXTINF:-1,ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
-#EXTINF:-1,Karibeña HD
-http://38.188.100.18:8000/play/a06k/index.m3u8
 #EXTINF:-1,Ponte Love
 http://38.210.105.10:8000/play/a0be/index.m3u8
+#EXTINF:-1,Karibeña HD
+http://38.188.100.18:8000/play/a06k/index.m3u8
 #EXTINF:-1,TOP LATINO
 http://201.77.61.226:8001/play/a0ak/index.m3u8
 #EXTINF:-1,Telehit
@@ -81,12 +81,12 @@ http://200.92.227.238:8000/play/a0uu/index.m3u8
 http://181.13.112.203:8100/play/a0dd/index.m3u8
 #EXTINF:-1,A&E HD
 http://38.188.100.18:8000/play/a0bi/index.m3u8
-#EXTINF:-1,AMC HD
-http://38.188.100.18:8000/play/a0gh/index.m3u8
+#EXTINF:-1,ID HD
+http://38.188.100.18:8000/play/a0hv/index.m3u8
 #EXTINF:-1,AXN HD
 http://38.188.100.18:8000/play/a0hu/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://38.188.100.18:8000/play/a0io/index.m3u8
+#EXTINF:-1,AMC HD
+http://38.188.100.18:8000/play/a0gh/index.m3u8
 #EXTINF:-1,Cinecanal HD
 http://38.188.100.18:8000/play/a0hq/index.m3u8
 #EXTINF:-1,Cinemax HD
@@ -109,12 +109,8 @@ http://45.167.1.136:8000/play/a00j
 http://45.186.106.152:8000/play/a0l4/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://45.186.106.152:8000/play/a0l6/index.m3u8
-#EXTINF:-1,ID HD
-http://38.188.100.18:8000/play/a0hv/index.m3u8
 #EXTINF:-1,MTV HD
 http://38.188.100.18:8000/play/a0h2/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://38.188.100.18:8000/play/a0h9/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://38.188.100.18:8000/play/a0i1/index.m3u8
 #EXTINF:-1,Sony HD
@@ -127,14 +123,14 @@ http://38.188.100.18:8000/play/a0hw/index.m3u8
 http://38.188.100.18:8000/play/a0gq/index.m3u8
 #EXTINF:-1,TNT HD
 http://38.188.100.18:8000/play/a0hp/index.m3u8
-#EXTINF:-1,TNT Series HD
-http://38.188.100.18:8000/play/a0gw/index.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL HD
-http://38.188.100.18:8000/play/a0gt/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://38.188.100.18:8000/play/a0ht/index.m3u8
 #EXTINF:-1,LIFETIME HD
 http://190.104.67.56:234/play/a07l/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://38.188.100.18:8000/play/a0gw/index.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://38.188.100.18:8000/play/a0gt/index.m3u8
 #EXTINF:-1,Multipremier
 http://206.84.201.100:8000/play/a02k/index.m3u8
 #EXTINF:-1,TCM
@@ -151,6 +147,8 @@ http://38.210.105.10:8000/play/a083/index.m3u8
 http://45.173.201.51:4000/play/a01e/index.m3u8
 #EXTINF:-1,AniRetro
 http://179.63.6.12:9000/play/a06i
+#EXTINF:-1,Cartoon Network HD
+http://38.188.100.18:8000/play/a0io/index.m3u8
 #EXTINF:-1,Nick HD
 http://38.188.100.18:8000/play/a0hb/index.m3u8
 #EXTINF:-1,Disney HD
