@@ -33,8 +33,10 @@ http://45.186.106.152:8000/play/a088/index.m3u8
 http://200.92.227.238:8000/play/a0v2/index.m3u8
 #EXTINF:0,Distrito Comedia
 http://181.78.109.48:9998/play/a06k/index.m3u8
-#EXTINF:0,Tlnovelas
+#EXTINF:0,Tlnovelas MX
 http://45.186.106.152:8000/play/a05m/index.m3u8
+#EXTINF:0,Tlnovelas LATAM
+http://45.233.168.222:8000/play/a0do/index.m3u8
 #EXTINF:0,Unimas
 http://72.90.150.217:8000/play/a08b/index.m3u8
 #EXTINF:-1,TNT Novelas HD
@@ -54,7 +56,7 @@ http://45.233.168.222:8000/play/a0i5/index.m3u8
 #EXTINF:0,ETC CHILE
 http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:-1,Memorias Corazon
-http://179.63.6.12:9000/play/a006
+http://187.102.195.131:8000/play/a010/index.m3u8
 #EXTINF:-1,Retro Plus
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?
 #EXTINF:-1,VClassic
