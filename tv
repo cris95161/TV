@@ -61,8 +61,6 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?
 #EXTINF:-1,ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
-#EXTINF:-1,Ponte Love
-http://38.210.105.10:8000/play/a0be/index.m3u8
 #EXTINF:-1,Karibeña HD
 http://38.188.100.18:8000/play/a06k/index.m3u8
 #EXTINF:-1,TOP LATINO
