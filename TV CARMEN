@@ -56,14 +56,6 @@ http://45.233.168.222:8000/play/a0i9/index.m3u8
 http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:-1,Memorias Corazon
 http://187.102.195.131:8000/play/a010/index.m3u8
-#EXTINF:-1,Retro Plus
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?
-#EXTINF:-1,Karibeña HD
-http://38.188.100.18:8000/play/a06k/index.m3u8
-#EXTINF:0,Azteca 7
-http://200.92.227.238:8000/play/a0uw/index.m3u8
-#EXTINF:0,Canal 5 MX
-http://200.92.227.238:8000/play/a0uu/index.m3u8
 #EXTINF:0,Amor de Mentira 1
 https://1a-1791.com/video/fwe2/ee/s8/2/U/U/W/S/UUWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2055276544-2055317120
 #EXTINF:0,Amor de Mentira 2
