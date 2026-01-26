@@ -34,9 +34,9 @@ http://200.92.227.238:8000/play/a0v2/index.m3u8
 #EXTINF:0,Distrito Comedia
 http://181.78.109.48:9998/play/a06k/index.m3u8
 #EXTINF:0,Tlnovelas MX
-http://45.186.106.152:8000/play/a05m/index.m3u8
+http://190.83.2.239:4540/play/a00c
 #EXTINF:0,Tlnovelas LATAM
-http://45.233.168.222:8000/play/a0do/index.m3u8
+http://179.1.192.227:8000/play/a0fc/index.m3u8
 #EXTINF:0,Unimas
 http://72.90.150.217:8000/play/a08b/index.m3u8
 #EXTINF:-1,TNT Novelas HD
