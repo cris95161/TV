@@ -22,7 +22,7 @@ http://38.190.103.160:9999/play/a00b/index.m3u8
 #EXTINF:0,TELELIMA
 http://38.252.215.33:8000/play/a007/index.m3u8
 #EXTINF:-1,Pasiones HD
-http://201.230.121.186:8000/play/a0of/index.m3u8
+http://190.187.200.244:8000/play/a0vz/index.m3u8
 #EXTINF:-1,GLOBAL HD
 http://38.190.103.160:9999/play/a008/index.m3u8
 #EXTINF:0,Las Estrellas Mexico
@@ -62,7 +62,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?
 #EXTINF:-1,ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
 #EXTINF:-1,Karibeña HD
-http://181.64.205.246:8000/play/a00x
+http://190.187.200.244:8000/play/a0w6/index.m3u8
 #EXTINF:-1,Telehit
 http://181.78.8.199:8000/play/a0g7/index.m3u8
 #EXTINF:-1,TVC REGUETON
@@ -100,7 +100,7 @@ http://38.199.4.160:93/play/a07x
 #EXTINF:-1,HBO Plus HD
 http://45.167.1.136:8000/play/a00j
 #EXTINF:-1,HBO Pop HD
-http://45.186.106.152:8000/play/a0l4/index.m3u8
+http://190.187.200.244:8000/play/a0of/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://45.186.106.152:8000/play/a0l6/index.m3u8
 #EXTINF:-1,MTV HD
@@ -120,7 +120,7 @@ http://38.199.4.160:93/play/a0cd
 #EXTINF:-1,Warner Channel HD
 http://38.188.100.18:8000/play/a0ht/index.m3u8
 #EXTINF:-1,LIFETIME HD
-http://190.104.67.56:234/play/a07l/index.m3u8
+http://190.187.200.244:8000/play/a0ua/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://38.188.100.18:8000/play/a0gw/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
@@ -149,10 +149,8 @@ http://38.188.100.18:8000/play/a0hb/index.m3u8
 http://38.188.100.18:8000/play/a0hx/index.m3u8
 #EXTINF:-1,Disney Junior HD
 http://38.188.100.18:8000/play/a062/index.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://181.13.112.203:8100/play/a075/index.m3u8
 #EXTINF:-1,Discovery Kids HD
-http://38.188.100.18:8000/play/a0in/index.m3u8
+http://190.187.200.244:8000/play/a0vl/index.m3u8
 #EXTINF:-1,Discovery Channel  HD
 http://38.188.100.18:8000/play/a0hm/index.m3u8
 #EXTINF:-1,Discovery ID HD
