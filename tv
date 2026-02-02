@@ -55,6 +55,8 @@ http://45.233.168.222:8000/play/a0i9/index.m3u8
 http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:-1,Memorias Corazon
 http://187.102.195.131:8000/play/a010/index.m3u8
+#EXTINF:-1,Ritmo Inolvidable
+http://45.5.118.152:8000/play/a0a6/index.m3u8
 #EXTINF:-1,Retro Plus
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?
 #EXTINF:-1,VClassic
