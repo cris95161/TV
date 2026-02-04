@@ -134,7 +134,7 @@ http://38.188.100.18:8000/play/a0gw/index.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL HD
 http://38.188.100.18:8000/play/a0gt/index.m3u8
 #EXTINF:0,Multipremier
-
+http://45.5.118.188:8000/play/a05j/index.m3u8
 #EXTINF:0,TCM
 http://38.210.105.10:8000/play/a04s/index.m3u8
 #EXTINF:0,REWIND
