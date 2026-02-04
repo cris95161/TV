@@ -10,13 +10,13 @@ http://38.190.103.160:9999/play/a003/index.m3u8
 #EXTINF:0,Panamericana
 http://38.190.103.160:9999/play/a002/index.m3u8
 #EXTINF:0,Exitosa HD
-http://38.252.213.12:8000/play/a05d
+http://38.190.103.164:9999/play/a007/index.m3u8
 #EXTINF:0,TV PERU HD
-http://38.252.213.12:8000/play/a05q
+http://38.190.103.164:9999/play/a00c/index.m3u8
 #EXTINF:0,Canal N HD
 http://38.188.100.18:8000/play/a05q/index.m3u8
 #EXTINF:0,Atv HD
-http://38.252.213.12:8000/play/a02q
+http://38.190.103.164:9999/play/a004/index.m3u8
 #EXTINF:0,Karibeña HD
 http://190.187.200.244:8000/play/a0w6/index.m3u8
 #EXTINF:0,TELELIMA
@@ -134,7 +134,7 @@ http://38.188.100.18:8000/play/a0gw/index.m3u8
 #EXTINF:0,UNIVERSAL CHANNEL HD
 http://38.188.100.18:8000/play/a0gt/index.m3u8
 #EXTINF:0,Multipremier
-http://206.84.201.100:8000/play/a02k/index.m3u8
+
 #EXTINF:0,TCM
 http://38.210.105.10:8000/play/a04s/index.m3u8
 #EXTINF:0,REWIND
