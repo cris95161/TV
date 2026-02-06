@@ -158,7 +158,7 @@ http://190.61.43.115:45000/play/a09j/index.m3u8
 #EXTINF:0,Disney HD
 http://190.61.43.115:45000/play/a09l/index.m3u8
 #EXTINF:0,Disney Junior 
-http://190.60.39.195:8000/play/a00b/index.m3u8
+http://8.243.64.201:2025/play/a0hm/index.m3u8
 #EXTINF:0,Discovery Kids HD
 http://190.61.43.115:45000/play/a0ac/index.m3u8
 #EXTINF:0,BITME
@@ -171,8 +171,8 @@ http://190.187.200.244:8000/play/a0ww/index.m3u8
 http://190.61.63.140:12142/play/a04g/index.m3u8
 #EXTINF:0,Discovery Theater HD
 http://190.61.63.140:12142/play/a03q/index.m3u8
-#EXTINF:0,Discovery Turbo HD
-http://190.60.39.195:8000/play/a0x5/index.m3u8
+#EXTINF:0,Discovery Turbo
+http://8.243.64.201:2025/play/a0hn/index.m3u8
 #EXTINF:0,Discovery World HD
 http://190.61.43.115:45000/play/a07q/index.m3u8
 #EXTINF:0,Discovery H&H HD
