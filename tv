@@ -41,8 +41,6 @@ http://179.1.192.227:8000/play/a0fc/index.m3u8
 http://190.187.200.244:8000/play/a0pr/index.m3u8
 #EXTINF:0,Kanal D
 http://190.61.43.115:45000/play/a07v/index.m3u8
-#EXTINF:0,Te quiero Plus
-http://45.233.168.222:8000/play/a0id/index.m3u8
 #EXTINF:0,Pluto LATAM
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0,Pluto USA
