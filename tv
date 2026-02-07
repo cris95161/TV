@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0,Willax HD
-http://8.243.126.131:8000/play/a01s/index.m3u8
+http://38.190.103.164:9999/play/a001/index.m3u8
 #EXTINF:0,Latina HD
 http://38.190.103.160:9999/play/a00a/index.m3u8
 #EXTINF:0,Latina Noticias
@@ -67,8 +67,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
 http://190.187.200.244:8000/play/a0w6/index.m3u8
 #EXTINF:0,Top Latino
 http://45.5.118.152:8000/play/a07q/index.m3u8
-#EXTINF:0,Telehit
-http://181.78.8.199:8000/play/a0g7/index.m3u8
 #EXTINF:0,TVC REGUETON
 http://187.102.195.131:8000/play/a00u/index.m3u8
 #EXTINF:0,Azteca 7
@@ -76,7 +74,7 @@ http://200.92.227.238:8000/play/a0uw/index.m3u8
 #EXTINF:0,Canal 5 MX
 http://200.92.227.238:8000/play/a0uu/index.m3u8
 #EXTINF:0,Adult swim HD
-http://138.121.114.86:8000/play/a08d/index.m3u8
+http://138.121.114.91:8000/play/a08d/index.m3u8
 #EXTINF:0,ID HD
 http://190.61.43.115:45000/play/a07d/index.m3u8
 #EXTINF:0,A&E HD
@@ -124,7 +122,7 @@ http://190.61.43.115:45000/play/a09c/index.m3u8
 #EXTINF:0,Studio Universal HD
 http://190.60.39.195:8000/play/a0xa/index.m3u8
 #EXTINF:0,TNT HD
-http://38.199.4.160:93/play/a0cd
+http://138.121.114.91:8000/play/a08b/index.m3u8
 #EXTINF:0,Cine Premium
 http://190.61.43.115:45000/play/a0c7/index.m3u8
 #EXTINF:0,LIFETIME HD
