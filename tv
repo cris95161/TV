@@ -88,13 +88,11 @@ http://190.61.43.115:45000/play/a07b/index.m3u8
 #EXTINF:0,Comedy Central HD
 http://190.61.63.140:12142/play/a03b/index.m3u8
 #EXTINF:0,FX HD
-http://190.187.200.244:8000/play/a0po/index.m3u8
-#EXTINF:0,Golden
-http://190.60.39.195:8000/play/a0xh/index.m3u8
-#EXTINF:0,Golden Edge
-http://190.187.200.244:8000/play/a0sz/index.m3u8
+http://38.210.3.64:8090/play/a0kv/index.m3u8
 #EXTINF:0,Golden HD
-http://177.10.184.193:8000/play/a02u/index.m3u8
+http://170.246.114.52:8000/play/a05p/index.m3u8
+#EXTINF:0,Golden Edge
+http://170.246.114.52:8000/play/a05q/index.m3u8
 #EXTINF:0,HBO HD
 http://38.199.4.160:93/play/a07x
 #EXTINF:0,HBO 2 HD
@@ -104,7 +102,7 @@ http://45.167.1.136:8000/play/a00k
 #EXTINF:0,HBO Plus HD
 http://45.167.1.136:8000/play/a00j
 #EXTINF:0,HBO Pop HD
-http://190.187.200.244:8000/play/a0of/index.m3u8
+http://181.119.93.57:8000/play/a0sd/index.m3u8
 #EXTINF:0,HBO XTREME HD
 http://45.186.106.152:8000/play/a0l6/index.m3u8
 #EXTINF:0,MTV HD
@@ -123,8 +121,8 @@ http://190.60.39.195:8000/play/a0xa/index.m3u8
 http://138.121.114.91:8000/play/a08b/index.m3u8
 #EXTINF:0,Cine Premium
 http://190.61.43.115:45000/play/a0c7/index.m3u8
-#EXTINF:0,LIFETIME HD
-http://190.187.200.244:8000/play/a0ua/index.m3u8
+#EXTINF:0,LIFETIME
+http://170.246.114.52:8000/play/a00n/index.m3u8
 #EXTINF:0,Warner Channel HD
 http://190.61.43.115:45000/play/a09a/index.m3u8
 #EXTINF:0,TNT Series HD
@@ -162,7 +160,7 @@ http://190.61.43.115:45000/play/a0cl/index.m3u8
 #EXTINF:0,Canal Claro
 http://45.186.106.152:8000/play/a07n/index.m3u8
 #EXTINF:0,Plus tv Life
-http://190.187.200.244:8000/play/a0ww/index.m3u8
+http://190.108.93.75:8001/play/a09i/index.m3u8
 #EXTINF:0,Discovery Channel  HD
 http://190.61.63.140:12142/play/a04g/index.m3u8
 #EXTINF:0,Discovery Theater HD
@@ -186,12 +184,10 @@ http://190.61.43.115:45000/play/a07y/index.m3u8
 #EXTINF:0,History Channel HD
 http://190.61.43.115:45000/play/a097/index.m3u8
 #EXTINF:0,LIGA 1 MAX HD
-http://190.187.200.244:8000/play/a0w0/index.m3u8
+http://38.210.3.64:8090/play/a08q/index.m3u8
 #EXTINF:0,Movistar Deportes HD
-http://190.187.200.244:8000/play/a0x2/index.m3u8
+http://179.63.6.15:8002/play/a02w
 #EXTINF:0,ESPN HD
 http://190.61.43.115:45000/play/a0ab/index.m3u8
-#EXTINF:0,Directv Sport
-http://190.187.200.244:8000/play/a0w5/index.m3u8
 #EXTINF:0,TUDN HD
 http://177.10.184.193:8000/play/a0ft/index.m3u8
