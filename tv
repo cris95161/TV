@@ -49,8 +49,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6661d5424
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/PmpV7gu.png",Bonita TV
 http://45.233.168.222:8000/play/a0i9/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/e1xrTRz.png",ETC CHILE
-http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sneqEIJ.jpeg",Memorias Corazon
 http://38.252.213.12:8000/play/a006
 #EXTINF:0 tvg-logo="http://imgfz.com/i/drOKIkE.png",Ritmo Inolvidable
@@ -63,10 +61,10 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/EcsOj9a.png",Memorias Classic
 http://187.102.195.131:8000/play/a015/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/SYIhRcD.jpeg",Concert Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6868152657543d1f8be4ece3livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8RyLVMN.jpeg",ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/SYIhRcD.jpeg",Concert Channel
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6868152657543d1f8be4ece3livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
 http://38.252.213.12:8000/play/a004
 #EXTINF:0 tvg-logo="http://imgfz.com/i/SYIhRcD.jpeg",Vevo Latino
@@ -163,6 +161,8 @@ http://190.61.63.140:122/play/a03m/index.m3u8
 http://200.92.227.238:8000/play/a0uw/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 MX
 http://200.92.227.238:8000/play/a0uu/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/e1xrTRz.png",ETC CHILE
+http://170.254.229.225:8000/play/a03e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
 http://190.61.43.115:45000/play/a0cl/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/VDRoQE8.png",Adult swim HD
