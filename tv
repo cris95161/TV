@@ -155,30 +155,6 @@ http://38.199.4.160:93/play/a0bh
 http://190.61.43.115:45000/play/a0a9/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ARcZDjd.png",MTV HD
 http://190.61.63.140:122/play/a03m/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7
-http://200.92.227.238:8000/play/a0uw/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 MX
-http://200.92.227.238:8000/play/a0uu/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/e1xrTRz.png",ETC CHILE
-http://170.254.229.225:8000/play/a03e/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
-http://190.61.43.115:45000/play/a0cl/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/VDRoQE8.png",Adult swim HD
-http://138.121.114.91:8000/play/a08d/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/aVi2OjM.png",AniRetro
-http://179.63.6.12:9000/play/a06i
-#EXTINF:0 tvg-logo="http://imgfz.com/i/eVEfRID.png",Animotion HD
-http://45.173.201.51:4000/play/a01e/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/bjkz8ax.png",Tooncast
-http://38.210.105.10:8000/play/a083/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/gO0DZx4.png",Cartoon Network HD
-http://190.61.43.115:45000/play/a01y/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/CoyLGfK.png",Nick HD
-http://190.61.43.115:45000/play/a09j/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/xpmAgot.png",Disney HD
-http://190.61.43.115:45000/play/a09l/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/Qw5WJTH.png",Discovery Kids HD
-http://190.61.43.115:45000/play/a0ac/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qenOwDa.png",AXN HD
 http://190.61.43.115:45000/play/a09b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8fvJZR7.png",UNIVERSAL CRIME HD
@@ -213,6 +189,30 @@ http://190.61.43.115:45000/play/a097/index.m3u8
 http://190.108.93.75:8001/play/a09i/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Zc78539.png",Canal Claro
 http://45.186.106.152:8000/play/a07n/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7
+http://200.92.227.238:8000/play/a0uw/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 MX
+http://200.92.227.238:8000/play/a0uu/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/VDRoQE8.png",Adult Swim HD
+http://138.121.114.91:8000/play/a08d/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/e1xrTRz.png",ETC CHILE
+http://170.254.229.225:8000/play/a03e/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
+http://190.61.43.115:45000/play/a0cl/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/aVi2OjM.png",AniRetro
+http://179.63.6.12:9000/play/a06i
+#EXTINF:0 tvg-logo="http://imgfz.com/i/eVEfRID.png",Animotion HD
+http://45.173.201.51:4000/play/a01e/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/bjkz8ax.png",Tooncast
+http://38.210.105.10:8000/play/a083/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/gO0DZx4.png",Cartoon Network HD
+http://190.61.43.115:45000/play/a01y/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/CoyLGfK.png",Nick HD
+http://190.61.43.115:45000/play/a09j/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/xpmAgot.png",Disney HD
+http://190.61.43.115:45000/play/a09l/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/Qw5WJTH.png",Discovery Kids HD
+http://190.61.43.115:45000/play/a0ac/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes HD
 http://179.63.6.15:8002/play/a02w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
