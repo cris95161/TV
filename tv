@@ -76,9 +76,9 @@ http://190.61.63.140:12142/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/w7riHfL.png",FX HD
 http://38.210.3.64:8090/play/a0kv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/RqDbOc5.jpeg",Golden HD
-http://170.246.114.52:8000/play/a05p/index.m3u8
+http://181.78.8.199:8000/play/a0cj/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/W5lhYry.png",Golden Edge
-http://170.246.114.52:8000/play/a05q/index.m3u8
+http://181.78.8.199:8000/play/a0ck/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/hQ9tBUE.png",Golden Premiere 1 HD
 http://177.10.184.193:8000/play/a02u/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ZhupvNC.png",HBO HD
@@ -120,7 +120,7 @@ http://187.102.195.131:8000/play/a01f/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2sRe4AH.png",HBO Family HD
 http://45.167.1.136:8000/play/a00k
 #EXTINF:0 tvg-logo="http://imgfz.com/i/xcJuDLZ.png",AMC HD
-http://190.61.63.140:12142/play/a03g/index.m3u8
+http://
 #EXTINF:0 tvg-logo="http://imgfz.com/i/luyPTtK.png",STAR CHANNEL HD
 http://190.61.43.115:45000/play/a07i/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Kt8GOcX.png",Warner Channel HD
