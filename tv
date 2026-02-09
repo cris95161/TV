@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://38.190.103.164:9999/play/a001/index.m3u8
+http://206.84.201.100:8000/play/a030/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://38.190.103.160:9999/play/a00a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/D4gvHzM.jpeg",Latina Noticias
@@ -64,7 +64,7 @@ http://187.102.195.131:8000/play/a015/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8RyLVMN.jpeg",ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
-http://206.84.201.100:8000/play/a02x/index.m3u8
+http://38.252.213.12:8000/play/a004
 #EXTINF:0 tvg-logo="http://imgfz.com/i/SYIhRcD.jpeg",Vevo Latino
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575elivestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5L49mAU.jpeg",TVC REGUETON
