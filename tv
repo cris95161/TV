@@ -55,7 +55,7 @@ http://38.252.213.12:8000/play/a006
 http://45.5.118.152:8000/play/a0a6/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",Retro Plus 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?
-#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png",VClassic
+#EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/1160_VClassicTV.png",VClassic Tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?
 #EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",Retro Plus 1
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?
@@ -93,8 +93,6 @@ http://45.167.1.136:8000/play/a00j
 http://181.119.93.57:8000/play/a0sd/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/JjxGPlg.png",HBO XTREME HD
 http://45.186.106.152:8000/play/a0l6/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/irB1wdS.png",Sony HD
-http://190.61.43.115:45000/play/a099/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WfHe89m.jpeg",Sony Movies HD
 http://177.10.184.193:8000/play/a0d4/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/zZJGcU5.png",Space HD
@@ -115,22 +113,32 @@ http://38.252.213.12:8000/play/a07n
 http://206.84.201.100:8000/play/a04l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/veE2mBX.png",UNIVERSAL CINEMA HD
 http://45.167.1.138:8000/play/a06m
+#EXTINF:0 tvg-logo="http://imgfz.com/i/PQCthx6.jpeg",Pluto Cine Premiere
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/mdLCeRN.png",CINE FAMILY HD
 http://38.252.213.12:8000/play/a06y
 #EXTINF:0 tvg-logo="http://imgfz.com/i/L3UuGH1.png",FMH FAMILY 
 http://206.84.201.100:8000/play/a04m/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2sRe4AH.png",HBO Family HD
 http://45.167.1.136:8000/play/a00k
+#EXTINF:0 tvg-logo="http://imgfz.com/i/q91x7bn.png",Multipremier
+http://177.10.184.193:8000/play/a05s/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/irB1wdS.png",Sony HD
+http://190.61.43.115:45000/play/a099/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/xcJuDLZ.png",AMC HD
 http://177.128.113.1:8000/play/a08e
 #EXTINF:0 tvg-logo="http://imgfz.com/i/luyPTtK.png",STAR CHANNEL HD
 http://190.61.43.115:45000/play/a07i/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Kt8GOcX.png",Warner Channel HD
 http://190.61.43.115:45000/play/a09a/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/q91x7bn.png",Multipremier
-http://177.10.184.193:8000/play/a05s/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/BJmjv4V.jpeg",Pluto Cine Aventura
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
+#EXTINF:0 tvg-logo="http://imgfz.com/i/Eq5f9RG.jpeg",Pluto Cine Adrenalina
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lAwvFiO.png",Cine CLASSIC
 http://179.63.6.12:9000/play/a05t
+#EXTINF:0 tvg-logo="http://imgfz.com/i/bAQuzys.jpeg",Pluto Cine Clasico
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b9671cdac71b0008f371df/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WoNlOz5.png",MEMORIAS FILM
 http://187.102.195.131:8000/play/a01b/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",Retro Plus 3
