@@ -3,7 +3,7 @@
 http://8.243.126.131:8000/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://38.190.103.160:9999/play/a00a/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/D4gvHzM.jpeg",Latina Noticias
+#EXTINF:0 tvg-logo="http://imgfz.com/i/D4gvHzM.jpeg",Latina Voley
 https://jireh-2-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina3/latina3.smil/latina3/livestream0/chunks.m3u8?
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
 http://38.190.103.160:9999/play/a003/index.m3u8
