@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://217.26.190.76:8888/play/a0bk/index.m3u8
+http://38.252.215.33:8000/play/a002/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://206.84.201.100:8000/play/a03j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/D4gvHzM.jpeg",Latina Noticias
@@ -64,7 +64,7 @@ http://187.102.195.131:8000/play/a015/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8RyLVMN.jpeg",ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
-http://8.243.126.131:8000/play/a04q/index.m3u8
+http://38.252.213.12:8000/play/a004
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bLigZ6d.png",Nova Pura Cumbia
 http://190.90.19.126:8888/play/a004/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Mi Musica REGUETON
@@ -104,19 +104,19 @@ http://45.167.1.138:8000/play/a05w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Cine Premium
 http://190.61.43.115:45000/play/a0c7/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aKb4fGh.png",CINE + HD
-http://38.252.213.12:8000/play/a057
+http://38.252.215.33:8000/play/a00g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",CINE TERROR HD
-http://38.252.213.12:8000/play/a00w
+http://38.252.213.10:8000/play/a00w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/DVqXvt6.png",CINE WAR HD
-http://38.252.213.12:8000/play/a07n
+http://38.252.213.10:8000/play/a07n
 #EXTINF:0 tvg-logo="http://imgfz.com/i/R2dUg6W.png",FMH MOVIES
 http://206.84.201.100:8000/play/a04l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/veE2mBX.png",UNIVERSAL CINEMA HD
-http://45.167.1.138:8000/play/a06m
+http://38.252.213.9:8000/play/a08h
 #EXTINF:0 tvg-logo="http://imgfz.com/i/PQCthx6.jpeg",Pluto Cine Premiere
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/mdLCeRN.png",CINE FAMILY HD
-http://38.252.213.12:8000/play/a06y
+http://38.252.215.33:8000/play/a00n/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/L3UuGH1.png",FMH FAMILY 
 http://206.84.201.100:8000/play/a04m/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2sRe4AH.png",HBO Family HD
@@ -126,7 +126,7 @@ http://177.10.184.193:8000/play/a05s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/irB1wdS.png",Sony HD
 http://190.61.43.115:45000/play/a099/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/xcJuDLZ.png",AMC HD
-http://177.128.113.1:8000/play/a08e
+http://38.252.213.9:8000/play/a0ao
 #EXTINF:0 tvg-logo="http://imgfz.com/i/luyPTtK.png",STAR CHANNEL HD
 http://190.61.43.115:45000/play/a07i/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Kt8GOcX.png",Warner Channel HD
@@ -160,9 +160,9 @@ http://190.61.43.115:45000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bFZBtrD.png",Comedy Central HD
 http://190.61.63.140:12142/play/a03b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/gn5rqsE.png",UNIVERSAL COMEDY HD
-http://45.167.1.138:8000/play/a067
+http://38.252.213.9:8000/play/a00h
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IA2F7qh.png",UNIVERSAL PREMIERE HD
-http://45.167.1.138:8000/play/a063
+http://38.252.213.9:8000/play/a08j
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ePKknTb.png",TNT Series HD
 http://190.61.43.115:45000/play/a0a9/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ARcZDjd.png",MTV HD
@@ -228,6 +228,6 @@ http://190.61.43.115:45000/play/a0ac/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
 http://190.117.20.37:8000/play/a0ay/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
-http://38.210.3.64:8090/play/a08q/index.m3u8
+http://38.252.213.9:8000/play/a0cr
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QUYib7y.png",ESPN HD
 http://190.61.43.115:45000/play/a0ab/index.m3u8
