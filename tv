@@ -148,7 +148,7 @@ http://187.102.195.131:8000/play/a01b/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",Retro Plus 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/GyBWpLg.png",De Pelicula
-http://179.1.192.227:8000/play/a0f9/index.m3u8
+http://190.60.39.195:8000/play/a0ue/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/vkpPyDI.jpeg",REWIND
 http://38.183.182.201:8000/play/a0x7/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2ST5HoZ.png",CLASSIC SERIES
