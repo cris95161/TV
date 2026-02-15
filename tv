@@ -10,7 +10,7 @@ http://38.190.103.160:9999/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
 http://38.190.103.160:9999/play/a002/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
-http://38.190.103.164:9999/play/a007/index.m3u8
+http://181.224.226.128:5000/play/a08k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
 http://38.190.103.164:9999/play/a00c/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N HD
