@@ -2,29 +2,29 @@
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
 http://8.243.126.131:8000/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
-http://38.190.103.160:9999/play/a00a/index.m3u8
+http://206.84.201.100:8000/play/a03j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/D4gvHzM.jpeg",Latina Noticias
 https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8?dpssid=b24360282056883fc1c6a7f7&sid=ba5t1l1xb236028504469852d7e41885&ndvc=0
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
-http://38.190.103.160:9999/play/a003/index.m3u8
+http://181.224.226.128:5000/play/a03m/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
-http://38.190.103.160:9999/play/a002/index.m3u8
+http://206.84.201.100:8000/play/a02u/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
 http://181.224.226.128:5000/play/a08k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
-http://38.190.103.164:9999/play/a00c/index.m3u8
+http://181.224.226.128:5000/play/a08s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N HD
 http://38.188.100.18:8000/play/a05q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
-http://38.190.103.164:9999/play/a004/index.m3u8
+http://181.224.226.128:5000/play/a08m/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
-http://38.190.103.160:9999/play/a00b/index.m3u8
+http://181.224.226.128:5000/play/a08r/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://38.252.213.12:8000/play/a00c
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
 http://190.61.63.140:2072/play/a03t/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
-http://38.190.103.160:9999/play/a008/index.m3u8
+http://181.224.226.128:5000/play/a08l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/B8hpvy9.png",AZTECA UNO
@@ -48,7 +48,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6661d5424
 #EXTINF:0 tvg-logo="http://imgfz.com/i/tiw2QDF.png",Pluto España
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/90mknWO.png",Bonita TV
-http://190.90.19.126:8888/play/a008/index.m3u8
+https://live-evg8.tv360.bitel.com.pe/bitel/bonitatv/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/6EOSbZ4.png",Memorias Corazon
 http://38.252.213.12:8000/play/a006
 #EXTINF:0 tvg-logo="http://imgfz.com/i/t4pV8ZK.png",Retro Plus 2
@@ -148,7 +148,7 @@ http://187.102.195.131:8000/play/a01b/index.m3u8
 #EXTINF:0 tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",Retro Plus 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/GyBWpLg.png",De Pelicula
-http://147.135.114.221:8001/play/a008/index.m3u8
+http://181.78.8.199:8000/play/a0au/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/vkpPyDI.jpeg",REWIND
 http://38.183.182.201:8000/play/a0x7/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2ST5HoZ.png",CLASSIC SERIES
