@@ -12,19 +12,19 @@ http://206.84.201.100:8000/play/a02u/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
 http://181.224.226.128:5000/play/a08k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
-http://181.224.226.128:5000/play/a08s/index.m3u8
+http://179.63.6.12:9000/play/a05q
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N HD
 http://38.188.100.18:8000/play/a05q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
-http://181.224.226.128:5000/play/a08m/index.m3u8
+http://179.63.6.12:9000/play/a02q
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
-http://181.224.226.128:5000/play/a08r/index.m3u8
+http://179.63.6.12:9000/play/a05l
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://38.252.213.12:8000/play/a00c
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
 http://190.61.63.140:2072/play/a03t/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
-http://181.224.226.128:5000/play/a08l/index.m3u8
+http://179.63.6.12:9000/play/a02d
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/B8hpvy9.png",AZTECA UNO
