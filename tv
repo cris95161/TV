@@ -64,7 +64,7 @@ http://187.102.195.131:8000/play/a015/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8RyLVMN.jpeg",ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
-http://38.252.213.12:8000/play/a004
+http://38.252.213.10:8000/play/a004
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bLigZ6d.png",Nova Pura Cumbia
 http://190.90.19.126:8888/play/a004/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Mi Musica REGUETON
