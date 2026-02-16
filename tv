@@ -14,7 +14,7 @@ http://181.224.226.128:5000/play/a08k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
 http://38.252.213.12:8000/play/a05q
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N HD
-http://38.188.100.18:8000/play/a05q/index.m3u8
+http://38.252.215.33:8000/play/a00j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
 http://38.252.213.12:8000/play/a02q
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
@@ -64,7 +64,7 @@ http://187.102.195.131:8000/play/a015/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8RyLVMN.jpeg",ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
-http://38.252.213.10:8000/play/a004
+http://8.243.126.131:8000/play/a04q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bLigZ6d.png",Nova Pura Cumbia
 http://190.90.19.126:8888/play/a004/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Mi Musica REGUETON
@@ -104,7 +104,7 @@ http://45.167.1.138:8000/play/a05w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Cine Premium
 http://190.61.43.115:45000/play/a0c7/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aKb4fGh.png",CINE + HD
-http://38.252.215.33:8000/play/a00g/index.m3u8
+http://38.252.213.10:8000/play/a057
 #EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",CINE TERROR HD
 http://38.252.213.10:8000/play/a00w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/DVqXvt6.png",CINE WAR HD
@@ -206,7 +206,7 @@ http://168.232.168.242:9999/play/a04s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 MX
 http://168.232.168.242:9999/play/a04r/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/VDRoQE8.png",Adult Swim HD
-http://138.121.114.91:8000/play/a08d/index.m3u8
+http://177.53.153.207:8000/play/a011/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/e1xrTRz.png",ETC CHILE
 http://190.61.44.118:8000/play/a0so/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
@@ -226,7 +226,7 @@ http://190.61.43.115:45000/play/a09l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Qw5WJTH.png",Discovery Kids HD
 http://190.61.43.115:45000/play/a0ac/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
-http://190.117.20.37:8000/play/a0ay/index.m3u8
+http://38.252.215.33:8000/play/a088/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
 http://38.252.213.9:8000/play/a0cr
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QUYib7y.png",ESPN HD
