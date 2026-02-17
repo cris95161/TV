@@ -104,11 +104,11 @@ http://45.167.1.138:8000/play/a05w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Cine Premium
 http://190.61.43.115:45000/play/a0c7/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aKb4fGh.png",CINE + HD
-http://38.252.213.10:8000/play/a057
+http://38.252.213.12:8000/play/a057
 #EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",CINE TERROR HD
-http://38.252.213.10:8000/play/a00w
+http://38.252.213.12:8000/play/a00w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/DVqXvt6.png",CINE WAR HD
-http://38.252.213.10:8000/play/a07n
+http://38.252.213.12:8000/play/a07n
 #EXTINF:0 tvg-logo="http://imgfz.com/i/R2dUg6W.png",FMH MOVIES
 http://206.84.201.100:8000/play/a04l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/veE2mBX.png",UNIVERSAL CINEMA HD
