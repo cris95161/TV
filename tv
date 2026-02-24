@@ -31,7 +31,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/B8hpvy9.png",AZTECA UNO
 http://45.186.106.152:8000/play/a088/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2r0OX19.png",Imagen Tv
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/686eed4c677f2f98b4a1ccd4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64e35aff6b1fdb0008ea8441/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
 http://38.7.195.43:8000/play/a012/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qXizuI1.png",Tlnovelas Mex HD
