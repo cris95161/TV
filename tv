@@ -203,6 +203,8 @@ http://38.199.4.105:9999/play/a0mi/index.m3u8
 http://190.108.93.75:8001/play/a09i/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Zc78539.png",Canal Claro
 http://45.186.106.152:8000/play/a07n/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/fxk5X78.png",Mega Chile
+http://179.0.96.134:8000/play/a04a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7
 http://168.232.168.242:9999/play/a04s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 MX
