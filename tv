@@ -80,7 +80,7 @@ http://38.7.195.44:8000/play/a027
 #EXTINF:0 tvg-logo="http://imgfz.com/i/xcGMpiE.png",HBO 2 HD
 http://38.199.4.105:9999/play/a02r/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/AeuZ4Eo.png",HBO Plus HD
-http://45.5.116.231:9090/play/a0l4/index.m3u8
+http://38.210.105.10:8000/play/a07m/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/S5nDrsX.png",HBO Pop HD
 http://38.199.4.105:9999/play/a0li/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WfHe89m.jpeg",Sony Movies HD
