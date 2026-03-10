@@ -1,145 +1,145 @@
 #EXTM3U
-#EXTINF:0,Willax
-http://38.190.103.164:9999/play/a001/index.m3u8
-#EXTINF:0,Latina
-http://38.190.103.160:9999/play/a00a/index.m3u8
-#EXTINF:0,RPP
-http://38.190.103.160:9999/play/a00b/index.m3u8
-#EXTINF:0,America
-http://38.190.103.160:9999/play/a003/index.m3u8
-#EXTINF:0,Panamericana
-http://38.190.103.160:9999/play/a002/index.m3u8
-#EXTINF:0,Exitosa HD
-http://38.190.103.164:9999/play/a007/index.m3u8
-#EXTINF:0,TV PERU
-http://38.190.103.164:9999/play/a00c/index.m3u8
-#EXTINF:-1,Pasiones HD
-http://190.187.200.244:8000/play/a0vz/index.m3u8
-#EXTINF:0,ATV
-http://38.190.103.164:9999/play/a004/index.m3u8
-#EXTINF:0,JN19
-https://servilive.com:3028/live/jntv19live.m3u8
-#EXTINF:0,TELELIMA
-http://38.252.213.12:8000/play/a00c
-#EXTINF:-1,GLOBAL HD
-http://38.190.103.160:9999/play/a008/index.m3u8
-#EXTINF:0,Las Estrellas Mexico
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:0,AZTECA 1
-http://45.186.106.152:8000/play/a088/index.m3u8
-#EXTINF:0,Imagen Tv
-http://200.92.227.238:8000/play/a0v2/index.m3u8
-#EXTINF:0,Distrito Comedia
-http://181.78.109.48:9998/play/a06k/index.m3u8
-#EXTINF:0,Tlnovelas MX
-http://45.186.106.152:8000/play/a05m/index.m3u8
-#EXTINF:0,Tlnovelas LATAM
-http://179.1.192.227:8000/play/a0fc/index.m3u8
-#EXTINF:-1,TNT Novelas HD
-http://190.187.200.244:8000/play/a0pr/index.m3u8
-#EXTINF:0,Te quiero Plus
-http://45.233.168.222:8000/play/a0id/index.m3u8
-#EXTINF:0,Pluto LATAM
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
-#EXTINF:0,Pluto USA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6661d5424b10960008599fa3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
-#EXTINF:0,Pluto España
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6475bfec536e0c0008858e9f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel:CBSN%20Denver%20
-#EXTINF:0,Bonita TV
-http://45.233.168.222:8000/play/a0i9/index.m3u8
-#EXTINF:0,ETC CHILE
-http://170.254.229.225:8000/play/a03e/index.m3u8
-#EXTINF:-1,Memorias Corazon
-http://38.252.213.12:8000/play/a006
-#EXTINF:0,Ritmo Inolvidable
-http://45.5.118.152:8000/play/a0a6/index.m3u8
-#EXTINF:0,Retro Plus
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?
-#EXTINF:0,1-Amor de Mentira 
-https://1a-1791.com/video/fwe2/ee/s8/2/U/U/W/S/UUWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2055276544-2055317120
-#EXTINF:0,2-Amor de Mentira 
-https://1a-1791.com/video/fwe2/97/s8/2/4/M/W/S/4MWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2099914752-2099956332
-#EXTINF:0,3-Amor de Mentira 
-https://1a-1791.com/video/fww1/94/s8/2/W/L/W/S/WLWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1993936896-1993976345
-#EXTINF:0,4-Amor de Mentira 
-https://1a-1791.com/video/fww1/d0/s8/2/e/O/W/S/eOWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2118311936-2118353827
-#EXTINF:0,5-Amor de Mentira 
-https://1a-1791.com/video/fww1/c4/s8/2/e/c/Z/S/ecZSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1987317248-1987356575
-#EXTINF:0,6-Amor de Mentira 
-https://1a-1791.com/video/fwe2/4a/s8/2/6/k/2/S/6k2Sz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2194884096-2194927648
-#EXTINF:0,7-Amor de Mentira 
-https://1a-1791.com/video/fwe2/3d/s8/2/C/s/4/S/Cs4Sz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1995500032-1995539457
-#EXTINF:0,8-Amor de Mentira 
-https://1a-1791.com/video/fwe2/39/s8/2/I/T/c/T/ITcTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2231694848-2231739113
-#EXTINF:0,9-Amor de Mentira 
-https://1a-1791.com/video/fww1/12/s8/2/O/g/a/T/OgaTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1989166592-1989205931
-#EXTINF:0,10-Amor de Mentira 
-https://1a-1791.com/video/fwe2/45/s8/2/A/X/e/T/AXeTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2241205248-2241249723
-#EXTINF:0,11-Amor de Mentira
-https://1a-1791.com/video/fwe2/5a/s8/2/g/o/h/T/gohTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1989982208-1990021442
-#EXTINF:0,12 FIN-Amor de Mentira 
-https://1a-1791.com/video/fww1/c8/s8/2/0/Q/j/T/0QjTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2207734272-2207777918
-#EXTINF:0,1-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",1-Encantado de no Conocerte 
 https://1a-1791.com/video/fwe2/35/s8/2/Q/G/n/T/QGnTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1907485696-1907523394
-#EXTINF:0,2-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",2-Encantado de no Conocerte 
 https://1a-1791.com/video/fww1/c8/s8/2/a/d/v/T/advTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2003970560-2004010230
-#EXTINF:0,3-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",3-Encantado de no Conocerte 
 https://1a-1791.com/video/fwe2/9f/s8/2/-/e/y/T/-eyTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1909126144-1909163852
-#EXTINF:0,4-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",4-Encantado de no Conocerte 
 https://1a-1791.com/video/fwe2/e8/s8/2/A/4/B/T/A4BTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1921789440-1921827468
-#EXTINF:0,5-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",5-Encantado de no Conocerte 
 https://1a-1791.com/video/fwe2/ca/s8/2/s/d/F/T/sdFTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2042332672-2042373041
-#EXTINF:0,6-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",6-Encantado de no Conocerte 
 https://1a-1791.com/video/fwe2/61/s8/2/6/E/N/T/6ENTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1882159616-1882196820
-#EXTINF:0,7-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",7-Encantado de no Conocerte 
 https://1a-1791.com/video/fwe2/d4/s8/2/w/K/T/T/wKTTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1931456000-1931494117
-#EXTINF:0,8-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",8-Encantado de no Conocerte 
 https://1a-1791.com/video/fww1/f2/s8/2/A/E/X/T/AEXTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1908304384-1908342099
-#EXTINF:0,9-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",9-Encantado de no Conocerte 
 https://1a-1791.com/video/fwe2/0a/s8/2/y/Z/5/T/yZ5Tz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1899085312-1899122821
-#EXTINF:0,10-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",10-Encantado de no Conocerte 
 https://1a-1791.com/video/fww1/63/s8/2/g/7/8/T/g78Tz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1927356416-1927394453
-#EXTINF:0,11-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",11-Encantado de no Conocerte 
 https://1a-1791.com/video/fww1/a6/s8/2/A/f/a/U/AfaUz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1903178240-1903215859
-#EXTINF:0,12-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",12-Encantado de no Conocerte 
 https://1a-1791.com/video/fww1/df/s8/2/g/y/e/U/gyeUz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1906887680-1906925387
-#EXTINF:0,13-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",13-Encantado de no Conocerte 
 https://1a-1791.com/video/fww1/a6/s8/2/-/2/-/V/-2-Vz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1917411328-1917449147
-#EXTINF:0,14-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",14-Encantado de no Conocerte 
 https://1a-1791.com/video/fwe2/5a/s8/2/O/g/_/V/Og_Vz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1897521664-1897559174
-#EXTINF:0,15-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",15-Encantado de no Conocerte 
 https://1a-1791.com/video/fww1/f7/s8/2/m/G/t/X/mGtXz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1924553728-1924591752
-#EXTINF:0,16 FIN-Encantado de no Conocerte 
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fHVEF67.jpeg",16 FIN-Encantado de no Conocerte 
 https://1a-1791.com/video/fww1/f1/s8/2/y/3/t/X/y3tXz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2017034240-2017074205
-#EXTINF:0,1-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",1-Fiebre de Primavera
+https://1a-1791.com/video/fww1/9f/s8/2/O/7/C/5/O7C5z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1847947776-1847984262
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",2-Fiebre de Primavera
+https://1a-1791.com/video/fwe2/82/s8/2/W/p/D/5/WpD5z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1826479104-1826515158
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",3-Fiebre de Primavera
+https://1a-1791.com/video/fww1/be/s8/2/6/o/D/5/6oD5z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1917489152-1917527057
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",4-Fiebre de Primavera
+https://1a-1791.com/video/fwe2/3e/s8/2/c/z/G/5/czG5z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1922896896-1922934922
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",5-Fiebre de Primavera
+https://1a-1791.com/video/fww1/ac/s8/2/m/E/G/5/mEG5z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1828377088-1828413166
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",6-Fiebre de Primavera
+https://1a-1791.com/video/fww1/60/s8/2/a/B/G/5/aBG5z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1924618752-1924656751
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",7-Fiebre de Primavera
+https://1a-1791.com/video/fwe2/1e/s8/2/8/f/0/5/8f05z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1857399808-1857436484
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",8-Fiebre de Primavera
+https://1a-1791.com/video/fwe2/26/s8/2/u/V/Z/5/uVZ5z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1834962432-1834998696
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",9-Fiebre de Primavera
+https://1a-1791.com/video/fww1/9b/s8/2/A/X/Z/5/AXZ5z.haa.1.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1851825152-1851862437
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",10-Fiebre de Primavera
+https://1a-1791.com/video/fwe2/f5/s8/2/U/S/2/5/US25z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1835938304-1835974589
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",11-Fiebre de Primavera
+https://1a-1791.com/video/fww1/37/s8/2/A/J/2/5/AJ25z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1830931968-1830968044
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/Ft5wz0r.jpeg",12 Fin-Fiebre de Primavera
+https://1a-1791.com/video/fwe2/26/s8/2/4/9/2/5/4925z.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1891806208-1891843489
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",1-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",2-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",3-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",4-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",5-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",6-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",7-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",8-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",9-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",10-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",11-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",12-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",13-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",14-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",15-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/W7Ob6It.jpeg",16 Fin-Snowdrop
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",1-Cafe Legal
 https://1a-1791.com/video/fww1/83/s8/2/I/F/n/X/IFnXz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2076857856-2076898862
-#EXTINF:0,2-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",2-Cafe Legal
 https://1a-1791.com/video/fwe2/00/s8/2/C/8/g/V/C8gVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2096320512-2096361908
-#EXTINF:0,3-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",3-Cafe Legal
 https://1a-1791.com/video/fwe2/d2/s8/2/c/7/g/V/c7gVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2021896704-2021936549
-#EXTINF:0,4-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",4-Cafe Legal
 https://1a-1791.com/video/fwe2/0a/s8/2/A/v/m/V/AvmVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2023703040-2023742995
-#EXTINF:0,5-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",5-Cafe Legal
 https://1a-1791.com/video/fww1/6b/s8/2/i/w/m/V/iwmVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1925004800-1925042809
-#EXTINF:0,6-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",6-Cafe Legal
 https://1a-1791.com/video/fww1/f7/s8/2/C/_/l/V/C_lVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1928457728-1928495847
-#EXTINF:0,7-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",7-Cafe Legal
 https://1a-1791.com/video/fww1/4e/s8/2/G/u/o/V/GuoVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1884043264-1884080540
-#EXTINF:0,8-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",8-Cafe Legal
 https://1a-1791.com/video/fww1/60/s8/2/2/p/p/V/2ppVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1900617216-1900654719
-#EXTINF:0,9-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",9-Cafe Legal
 https://1a-1791.com/video/fwe2/34/s8/2/C/7/p/V/C7pVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1943408128-1943446533
-#EXTINF:0,10-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",10-Cafe Legal
 https://1a-1791.com/video/fwe2/6d/s8/2/4/k/r/V/4krVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1920332800-1920370717
-#EXTINF:0,11-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",11-Cafe Legal
 https://1a-1791.com/video/fww1/72/s8/2/-/w/z/V/-wzVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1932989952-1933028162
-#EXTINF:0,12-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",12-Cafe Legal
 https://1a-1791.com/video/fww1/6a/s8/2/A/r/z/V/ArzVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1922203136-1922241054
-#EXTINF:0,13-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",13-Cafe Legal
 https://1a-1791.com/video/fww1/3f/s8/2/I/t/z/V/ItzVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1922967040-1923004940
-#EXTINF:0,14-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",14-Cafe Legal
 https://1a-1791.com/video/fww1/f4/s8/2/w/p/z/V/wpzVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1934313984-1934352200
-#EXTINF:0,15-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",15-Cafe Legal
 https://1a-1791.com/video/fwe2/bd/s8/2/m/n/C/V/mnCVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1925891072-1925929177
-#EXTINF:0,16 FIN-Cafe Legal
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/rgCI6Zs.jpeg",16 FIN-Cafe Legal
 https://1a-1791.com/video/fwe2/58/s8/2/O/s/C/V/OsCVz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1967739904-1967778812
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",1-Amor de Mentira 
+https://1a-1791.com/video/fwe2/ee/s8/2/U/U/W/S/UUWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2055276544-2055317120
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",2-Amor de Mentira 
+https://1a-1791.com/video/fwe2/97/s8/2/4/M/W/S/4MWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2099914752-2099956332
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",3-Amor de Mentira 
+https://1a-1791.com/video/fww1/94/s8/2/W/L/W/S/WLWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1993936896-1993976345
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",4-Amor de Mentira 
+https://1a-1791.com/video/fww1/d0/s8/2/e/O/W/S/eOWSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2118311936-2118353827
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",5-Amor de Mentira 
+https://1a-1791.com/video/fww1/c4/s8/2/e/c/Z/S/ecZSz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1987317248-1987356575
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",6-Amor de Mentira 
+https://1a-1791.com/video/fwe2/4a/s8/2/6/k/2/S/6k2Sz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2194884096-2194927648
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",7-Amor de Mentira 
+https://1a-1791.com/video/fwe2/3d/s8/2/C/s/4/S/Cs4Sz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1995500032-1995539457
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",8-Amor de Mentira 
+https://1a-1791.com/video/fwe2/39/s8/2/I/T/c/T/ITcTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2231694848-2231739113
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",9-Amor de Mentira 
+https://1a-1791.com/video/fww1/12/s8/2/O/g/a/T/OgaTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1989166592-1989205931
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",10-Amor de Mentira 
+https://1a-1791.com/video/fwe2/45/s8/2/A/X/e/T/AXeTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2241205248-2241249723
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",11-Amor de Mentira
+https://1a-1791.com/video/fwe2/5a/s8/2/g/o/h/T/gohTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1989982208-1990021442
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/xEBtPAU.png",12 FIN-Amor de Mentira 
+https://1a-1791.com/video/fww1/c8/s8/2/0/Q/j/T/0QjTz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2207734272-2207777918
