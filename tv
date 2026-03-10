@@ -24,7 +24,7 @@ http://38.252.213.12:8000/play/a00c
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
 http://190.119.195.114:8060/play/a0nu/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
-http://38.43.132.201:8000/play/a0ob/index.m3u8
+http://38.190.103.160:9999/play/a008/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/B8hpvy9.png",AZTECA UNO
@@ -34,7 +34,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
 http://38.211.145.109:8000/play/a058/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qXizuI1.png",Tlnovelas Mex HD
-http://148.230.25.148:8500/play/a0og/index.m3u8
+http://45.228.234.62:8000/play/a009/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Jp8RmY3.png",Tlnovelas LATAM
 http://38.211.145.109:8000/play/a05u/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/3Qselkd.png",TNT Novelas HD
