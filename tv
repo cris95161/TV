@@ -162,7 +162,7 @@ http://200.125.170.121:8000/play/a04r/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5ibmcB2.png",A&E HD
 http://190.60.34.180:8000/play/a01z/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aM81Hc9.png",Discovery ID HD
-http://181.78.8.199:8000/play/a07j/index.m3u8
+http://190.60.34.180:8000/play/a03y/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bzxnBAI.png",Discovery Channel  HD
 http://38.199.4.105:9999/play/a0mh/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/LVrSaRk.png",Discovery Theater HD
