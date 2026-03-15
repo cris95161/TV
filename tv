@@ -14,11 +14,11 @@ http://181.224.226.128:5000/play/a08k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
 http://181.224.255.210:8001/play/a0s9/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N HD
-http://38.43.133.242:8000/play/a0dn/index.m3u8
+http://38.252.215.33:8000/play/a00j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
-http://179.0.96.134:8000/play/a08x/index.m3u8
+http://38.252.213.12:8000/play/a02q
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
-http://38.43.132.201:8000/play/a0oe/index.m3u8
+http://38.252.213.12:8000/play/a05l
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://38.252.213.12:8000/play/a00c
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
