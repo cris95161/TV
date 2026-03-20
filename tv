@@ -123,8 +123,6 @@ http://200.229.147.142:8000/play/a01y/index.m3u8
 http://190.61.44.118:8000/play/a0cj/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Kt8GOcX.png",Warner Channel HD
 http://190.61.44.118:8000/play/a0y2/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/Yu7jFd4.jpeg",Panico HD
-http://190.60.34.180:8000/play/a03j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",Cine Terror
 http://38.252.213.12:8000/play/a00w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lAwvFiO.png",Cine CLASSIC
