@@ -31,10 +31,10 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
 http://181.78.8.199:8000/play/a0g8/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/qXizuI1.png",Tlnovelas Mex HD
-http://45.186.105.214:8000/play/a05t/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/qXizuI1.png",Tlnovelas Mexico HD
+http://181.119.177.253:8000/play/a0dt/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Jp8RmY3.png",Tlnovelas LATAM
-http://181.78.8.199:8000/play/a0bs/index.m3u8
+http://190.60.48.150:8000/play/tlnovelas/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/3Qselkd.png",TNT Novelas HD
 http://190.61.44.118:8000/play/a0jd/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fh1Nmsk.jpeg",Kanal D
