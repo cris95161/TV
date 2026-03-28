@@ -16,7 +16,7 @@ http://38.190.103.164:9999/play/a00c/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N HD
 http://45.186.254.75:8000/play/a09i/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
-http://38.226.210.46:8000/play/A002/index.m3u8
+http://38.190.103.164:9999/play/a004/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
 http://38.190.103.164:9999/play/a00b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
@@ -39,10 +39,6 @@ http://181.119.177.253:8000/play/a0dt/index.m3u8
 http://190.60.48.150:8000/play/tlnovelas/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QmIMuoy.png",Novelas Familiares
 https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/3Qselkd.png",TNT Novelas HD
-http://190.61.44.118:8000/play/a0jd/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/fh1Nmsk.jpeg",Kanal D
-http://190.61.43.115:45000/play/a07v/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7tRpckZ.jpeg",Pluto Dramas Coreanos LATAM
 https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fho1KV2.jpeg",Pluto Dramas Coreanos MEX
@@ -53,6 +49,10 @@ https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/3jkB51J.jpeg",Pasiones USA
 https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/3Qselkd.png",TNT Novelas HD
+http://190.61.44.118:8000/play/a0jd/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/fh1Nmsk.jpeg",Kanal D
+http://190.61.43.115:45000/play/a07v/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/6EOSbZ4.png",Memorias Corazon
 http://187.102.195.131:8000/play/a016/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/t4pV8ZK.png",Retro Plus 2
