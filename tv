@@ -227,4 +227,6 @@ http://38.252.213.9:8000/play/a0cr
 http://190.60.46.12:8000/play/a0oy/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/6HYiaOv.jpeg",ESPN Premiun HD
 http://38.199.5.160:8000/play/a05g/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORT
+http://179.43.96.253:8000/play/a24w/index.m3u8
 
