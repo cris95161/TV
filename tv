@@ -220,7 +220,7 @@ http://190.61.44.118:8000/play/a0wp/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Qw5WJTH.png",Discovery Kids HD
 http://190.61.44.118:8000/play/a0sh/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
-http://38.252.215.33:8000/play/a088/index.m3u8
+http://179.63.6.15:8002/play/a02w
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
 http://38.252.213.9:8000/play/a0cr
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS
