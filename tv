@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://38.190.103.160:9999/play/a001/index.m3u8
+http://181.224.255.210:8001/play/a0s7/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
-http://38.190.103.160:9999/play/a00a/index.m3u8
+http://181.65.207.51:8000/play/a012
 #EXTINF:0 tvg-logo="http://imgfz.com/i/D4gvHzM.jpeg",Latina Noticias
 https://jireh-1-hls-video-pe-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/latinanoticias/livestream0/chunks.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
@@ -36,7 +36,7 @@ https://jmp2.uk/rok-ab6cd6569bf6557a8c5d9798cfce202b.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qXizuI1.png",Tlnovelas Mex HD
 http://181.119.177.253:8000/play/a0dt/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Jp8RmY3.png",Tlnovelas LATAM
-http://190.61.114.186:8000/play/a00q/index.m3u8
+http://138.94.3.106:8000/play/a00q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QmIMuoy.png",Novelas Familiares
 https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7tRpckZ.jpeg",Pluto Dramas Coreanos LATAM
@@ -204,7 +204,7 @@ http://200.229.147.142:8000/play/a06t/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/VDRoQE8.png",Adult Swim HD
 http://190.61.47.54:8000/play/a02j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/e1xrTRz.png",ETC CHILE
-http://38.7.195.44:8000/play/a02n
+http://200.62.239.162:8000/play/a0ab/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eVEfRID.png",Animotion HD
