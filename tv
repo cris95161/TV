@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://38.187.7.252:8000/play/a038/index.m3u8
+http://38.188.100.18:8000/play/a07c/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://38.187.7.252:8000/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/D4gvHzM.jpeg",Latina Noticias
@@ -74,7 +74,7 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bLigZ6d.png",Nova Pura Cumbia
 http://206.84.201.100:8000/play/a034/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
-http://38.187.7.252:8000/play/a036/index.m3u8
+http://38.188.100.18:8000/play/a06k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1b6PlOL.png",Vision Musica
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Mi Musica REGUETON
