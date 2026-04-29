@@ -18,13 +18,13 @@ http://38.188.100.18:8000/play/a05q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
 http://38.187.7.252:8000/play/a031/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
-http://38.188.100.18:8000/play/a06u/index.m3u8
+http://38.210.4.182:8000/play/a0px/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://181.224.255.210:8001/play/a0rp/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
 http://38.187.7.252:8000/play/a04a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
-http://38.224.48.4:8000/play/a0en/index.m3u8
+http://38.210.4.182:8000/play/a156/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2r0OX19.png",Imagen Tv
@@ -71,16 +71,16 @@ https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?
 http://187.102.195.131:8000/play/a015/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8RyLVMN.jpeg",ZCREO TV
 https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/bLigZ6d.png",Nova Pura Cumbia
-http://206.84.201.100:8000/play/a034/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
-http://38.188.100.18:8000/play/a06k/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/AM0BxDv.jpeg",RETRO MUSIC
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/chunklist_w55923417.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1b6PlOL.png",Vision Musica
 https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
+http://38.188.100.18:8000/play/a06k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Mi Musica REGUETON
 http://200.229.147.142:8000/play/a07z/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/XE9xzTj.png",Urbano tv
-http://206.84.201.100:8000/play/a032/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/SdicHQv.png",Top Latino
+https://5cefcbf58ba2e.streamlock.net:543/webtltv/webtltv.stream/chunklist_w1266734542_tkd293emF0b2tlbnN0YXJ0dGltZT0xNzc3NDc3MDM3Jndvd3phdG9rZW5lbmR0aW1lPTE3Nzc0NzgwMzcmd293emF0b2tlbmhhc2g9SS1kVGVOMlhrU2xRYmJzZWFIRkJtd3JpVVh4NWFPYnhkMkFjSzNsNkdYST0=.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jwY2eKC.png",Cinecanal HD
 http://38.187.7.252:8000/play/a05z/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3sy4F5Y.png",Cinemax
@@ -140,9 +140,9 @@ http://38.187.7.252:8000/play/a065/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Kt8GOcX.png",Warner Channel HD
 http://38.187.7.252:8000/play/a060/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",Cine Terror
-http://38.252.213.12:8000/play/a00w
+http://181.78.0.156:8000/play/a01o/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lAwvFiO.png",Cine CLASSIC
-http://38.252.213.12:8000/play/a05t
+http://181.78.0.156:8000/play/a04g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/gy1GYHc.png",TCM
 http://45.167.2.101:8000/play/a0nu/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WoNlOz5.png",MEMORIAS FILM
