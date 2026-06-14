@@ -209,14 +209,6 @@ http://181.78.67.171:8000/play/a0xa/index.m3u8
 http://177.53.153.207:8000/play/a011/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
 http://181.78.8.199:8000/play/a0ga/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/gO0DZx4.png",Cartoon Network HD
-http://138.94.3.106:8000/play/a00j/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/CoyLGfK.png",Nick HD
-http://38.187.7.252:8000/play/a06b/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/xpmAgot.png",Disney HD
-http://38.194.226.190:8000/play/a02b/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/Qw5WJTH.png",Discovery Kids HD
-http://38.187.7.252:8000/play/a071/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
 http://38.187.7.251:8000/play/a0hl/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
@@ -227,14 +219,14 @@ http://38.194.226.190:8000/play/a017/index.m3u8
 http://38.194.226.190:8000/play/a02e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS
 http://190.108.93.180:8000/play/a054/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo (USA)
+http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",Chilevision HD (Chile)
 http://45.186.254.75:8000/play/a04v/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lVdoF6H.png",Win Sports HD (Colombia)
 http://179.1.225.6:8000/play/a0nt/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TyC Sports HD (Argentina)
 http://45.5.116.228:8000/play/a07k/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo (USA)
-http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/L0ita6X.png",FOX (Costa Rica)
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YutPq5L.png",TUDN (Mexico)
