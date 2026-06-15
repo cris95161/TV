@@ -29,8 +29,6 @@ http://38.210.4.182:8000/play/a156/index.m3u8
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2r0OX19.png",Imagen Tv
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/QmIMuoy.png",VIX
-https://jmp2.uk/rok-7b5699f58b2b54be9da4d23fe354fb59.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qXizuI1.png",Tlnovelas Mex HD
 http://181.119.109.191:8000/play/a05m/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Jp8RmY3.png",Tlnovelas LATAM
@@ -151,6 +149,8 @@ http://38.187.7.252:8000/play/a060/index.m3u8
 http://38.187.7.252:8000/play/a05d/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bFZBtrD.png",Comedy Central HD
 http://38.187.7.251:8000/play/a0cc/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/ePKknTb.png",MTV HD
+http://170.254.229.225:8000/play/a042/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ePKknTb.png",TNT Series HD
 http://38.187.7.251:8000/play/a0cl/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lAwvFiO.png",CLASSIC +
