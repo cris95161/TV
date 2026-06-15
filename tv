@@ -218,11 +218,11 @@ http://38.194.226.190:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 (Mexico)
 http://38.194.226.190:8000/play/a02e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",Chilevision HD (Chile)
-http://45.186.254.75:8000/play/a04v/index.m3u8
+http://38.187.2.124:8000/play/a03p/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS HD
 http://38.188.100.18:8000/play/a05m/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TyC Sports HD (Argentina)
-http://45.5.116.228:8000/play/a07k/index.m3u8
+http://38.43.132.201:8000/play/a0wx/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo (USA)
 http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lVdoF6H.png",Win Sports HD (Colombia)
@@ -231,8 +231,8 @@ http://179.1.225.6:8000/play/a0nt/index.m3u8
 http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YutPq5L.png",TUDN (Mexico)
 http://201.151.118.136:8000/play/a00g/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS + HD
-http://38.188.100.18:8000/play/a0o8/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
+http://38.43.132.201:8000/play/a0wv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/6HYiaOv.jpeg",ESPN Premiun HD
 http://38.187.7.252:8000/play/a06e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QUYib7y.png",ESPN HD
