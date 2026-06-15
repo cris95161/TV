@@ -13,7 +13,7 @@ http://38.187.7.252:8000/play/a00b/index.m3u8
 http://38.187.7.252:8000/play/a035/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
 http://38.187.7.252:8000/play/a030/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N
+#EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N HD
 http://38.252.213.215:8000/play/a01a
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
 http://38.187.7.252:8000/play/a031/index.m3u8
