@@ -223,20 +223,20 @@ http://152.231.29.139:8000/play/a09q/index.m3u8
 http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS HD
 http://38.252.215.33:8000/play/a082/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS +
-http://38.210.4.182:8000/play/a1bv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TyC Sports HD (Argentina)
 http://38.43.132.201:8000/play/a0wx/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/L0ita6X.png",TIGO SPORTS(HONDURAS)
+http://45.228.235.116:8000/play/a08i/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/YutPq5L.png",SPORTS(GUATEMALA)
+http://45.224.150.120:8000/play/a0wz/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lVdoF6H.png",Win Sports HD (Colombia)
 http://179.1.225.6:8000/play/a0nt/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/L0ita6X.png",FOX (Costa Rica)
-http://45.5.118.152:8000/play/a0dh/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
 http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
 http://38.43.132.201:8000/play/a0wv/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/YutPq5L.png",TUDN (Mexico)
-http://94.176.111.120:8080/live/7621755423047869/687aa5277772/73777.m3u8?token=Q0FaWEpZFFsXBgYCDVhRUAFWAQQAVQEEBwUCVVFQB1QAVlcAAVQEVQIVGEZGFUdTUl9qWwIVAlZRBAdTGENHQ10RbVBdEwxDDAUEUg1YFxoRRlxfAxUCUU4RQA1QQwgSCVUKCwsTGkNQT0ABRw9UWmxWUEQPVF1DWF1FCFhNEF9WPFZcVFBYBRcNFlUXTRdfQEIXCAhCVA1OEVINQBNTRF1BCBsIBw5SFxsWB1oUW0JBSxcIRGd9Q04RVRxABFxDUQxcGwMTW1JADxZIFwhGaUFXRkYUUlkMB0ESXhZREBwaDlNBZlJZD1tSVxBcDltFEQgXA0QbGgwNXVkQWxNtQFEHEAMbAwBZBgAWGQ==
+#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS +
+http://38.210.4.182:8000/play/a1bv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
 http://38.187.7.251:8000/play/a0hl/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
