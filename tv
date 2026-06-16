@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://45.186.254.75:8000/play/a0c6/index.m3u8
+http://209.14.108.45:8000/play/a0fk
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://38.187.7.252:8000/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
@@ -225,9 +225,9 @@ http://45.5.117.188:8000/play/a077/index.m3u8
 http://38.252.215.33:8000/play/a082/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TyC Sports HD (Argentina)
 http://38.43.132.201:8000/play/a0wx/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/L0ita6X.png",TIGO SPORTS(HONDURAS)
+#EXTINF:0 tvg-logo="http://imgfz.com/i/L0ita6X.png",TIGO SPORT(HONDURAS)
 http://45.228.235.116:8000/play/a08i/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/YutPq5L.png",SPORTS(GUATEMALA)
+#EXTINF:0 tvg-logo="http://imgfz.com/i/YutPq5L.png",SPORT(GUATEMALA)
 http://45.224.150.120:8000/play/a0wz/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lVdoF6H.png",Win Sports HD (Colombia)
 http://179.1.225.6:8000/play/a0nt/index.m3u8
