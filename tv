@@ -231,8 +231,6 @@ http://45.228.235.116:8000/play/a08i/index.m3u8
 http://45.224.150.120:8000/play/a0wz/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lVdoF6H.png",Win Sports HD (Colombia)
 http://179.1.225.6:8000/play/a0nt/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/i2aeRZK.png",Entel Tv(Bolivia)
-http://186.33.57.100:8000/play/a2il/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
 http://38.43.132.201:8000/play/a0wv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS +
