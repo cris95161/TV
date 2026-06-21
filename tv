@@ -222,15 +222,11 @@ http://38.187.7.251:8000/play/a0fs/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo (USA)
 http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS HD
-http://45.71.202.124:8000/play/a001/index.m3u8
+http://38.252.215.33:8000/play/a082/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TyC Sports HD (Argentina)
 http://38.199.67.246:8000/play/a025/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/L0ita6X.png",TIGO SPORT(HONDURAS)
 http://38.252.215.33:8000/play/a02l/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/lVdoF6H.png",Win Sports HD (Colombia)
-http://186.33.52.222:8000/play/a1kv/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
-http://38.252.215.33:8000/play/a082/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
 http://38.43.132.201:8000/play/a0wv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS +
