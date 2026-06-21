@@ -53,8 +53,8 @@ http://38.187.7.252:8000/play/a05e/index.m3u8
 https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/6EOSbZ4.png",Memorias Corazon
 http://38.211.145.109:8000/play/a04e/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/t4pV8ZK.png",Retro Plus 2
-https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?
+#EXTINF:0 tvg-logo="http://imgfz.com/i/JYdWtP9.jpeg",OLD Music
+http://38.7.195.44:8000/play/a0bz
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eWwGMzr.jpeg",Memorias POP
 http://181.78.67.171:8000/play/a0xu/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/862Aoyv.png",VClassic Tv
@@ -190,11 +190,11 @@ http://209.14.108.45:8000/play/a0cu
 #EXTINF:0 tvg-logo="http://imgfz.com/i/e6E75Lg.png",Gourmet HD
 http://209.14.108.45:8000/play/a09q
 #EXTINF:0 tvg-logo="http://imgfz.com/i/mMCOJ6V.png",Food Network
-http://38.187.7.251:8000/play/a0h9/index.m3u8
+http://38.226.49.253:8000/play/a07p/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IxVeLko.png",Plus tv Life
 http://38.199.4.105:9999/play/a0x1/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/AFwJLG7.png",Nat Geo HD
-http://38.187.7.252:8000/play/a059/index.m3u8
+http://38.252.238.18:8000/play/a038/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/xGeDIYa.png",Animal Planet HD
 http://138.94.3.106:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/60hKYG5.png",History Channel HD
@@ -225,8 +225,10 @@ http://45.5.117.188:8000/play/a077/index.m3u8
 http://38.252.215.33:8000/play/a082/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TyC Sports HD (Argentina)
 http://38.199.67.246:8000/play/a025/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/L0ita6X.png",TIGO SPORT(HONDURAS)
+#EXTINF:0 tvg-logo="http://imgfz.com/i/K6CHYD9.png",TIGO SPORT(HONDURAS)
 http://38.252.215.33:8000/play/a02l/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
+http://152.231.24.38:8000/play/a001/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
 http://38.43.132.201:8000/play/a0wv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS +
