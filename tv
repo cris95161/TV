@@ -213,26 +213,28 @@ http://38.252.213.217:8000/play/a07j
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/J3l7R8E.jpeg",Chavo del 8 24/7
 http://38.252.215.33:8000/play/a01o/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7 (Mexico)
-http://38.194.226.190:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 (Mexico)
 http://38.194.226.190:8000/play/a02e/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7 (Mexico)
+http://38.194.226.190:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",Chilevision HD (Chile)
 http://38.187.7.251:8000/play/a0fs/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo (USA)
 http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS HD
 http://38.252.215.33:8000/play/a082/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TyC Sports HD (Argentina)
-http://38.199.67.246:8000/play/a025/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/K6CHYD9.png",TIGO SPORT(HONDURAS)
 http://38.252.215.33:8000/play/a02l/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TYC Sports(ARGENTINA)
+https://streamvidex.qzz.io/videx/tyc/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DAZN (ESPAÑA)
+https://live.plplayer.com/auth/9q_9ofgmQVWSS6qi6iG9o-sDofmD7eO0aHfLV4sJLGsAj_VvlQbjrbVxcvfXej5QpKPF_LSntUutYh5NBZG8uycAYu5SLX1vP3Kmt7aU7XBK6hPRT1GlqoKlvxMUKHA_KAqz6XhIc7jnh81sG8079OzmH3EPlZb3WR4o3P1SyIyEJi3NaXqiIjOrhydGlgBZJr-IMC1rBlYEzo-KdrNcBMia26wrsodBmDKnHtypV3ZK_BBJm3H2WOe2Om6WoxAXgBne1OT-UMWzLl9oiF49FBqAamS3RDGpI-QSb6rLBZ6JfufWtgh6bFKPDnwNI61Mqbn8if7aLUH6N9xuaFpyMlt2mZ8C3179ltMm8M7jnn-wW7UoTM-FxlsJOIYacw84Z19NzRWFlWKdfOOhxaNlfCWGQeuyaRU8sxCTWhbk9p9qEdNq7athOYJy7NHUwDkWFg7xy0GBCEhZ5_SZsEc0QQothvtXkzLQrRusTzkSM8kh9Bz3bGn5jjr4eYqSAAtZJc1CJtm9_n7tonb4HInkV3Bv4kEkIhpuPooUHJ7aUegBTZhBr4mgo0uyJkvx32-w7N4jYmAfoJCGD6QU-q8kiT7CbDBAMCJVM14WJ_Wnb4MeP2JJ_ow9yX2GOxmfKOq8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
 http://152.231.24.38:8000/play/a001/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
 http://38.43.132.201:8000/play/a0wv/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS +
-http://186.33.27.9:8000/play/a04j/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",FOX SPORTS
+http://181.78.50.91:8000/play/a04a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
 http://38.187.7.251:8000/play/a0hl/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
