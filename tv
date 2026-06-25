@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://38.52.200.209:8000/play/a07o/index.m3u8
+http://45.186.254.75:8000/play/a0c6/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
-http://190.108.83.69:8000/play/a0c1/index.m3u8
+http://190.108.83.69:8000/play/a09a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
 http://45.186.254.75:8000/play/a0ca/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
-http://38.52.200.209:8000/play/a09d/index.m3u8
+http://190.108.83.69:8000/play/a097/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
 http://38.187.7.252:8000/play/a00b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
@@ -16,7 +16,7 @@ http://38.187.7.252:8000/play/a030/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N
 http://38.252.213.215:8000/play/a01a
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
-http://38.52.200.209:8000/play/a02f/index.m3u8
+http://45.186.254.75:8000/play/a0c5/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
 http://181.78.8.199:8000/play/a0g8/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
