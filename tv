@@ -226,7 +226,7 @@ http://38.252.215.33:8000/play/a082/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/K6CHYD9.png",TIGO SPORT(HONDURAS)
 http://38.252.215.33:8000/play/a02l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TYC Sports(ARGENTINA)
-https://streamvidex.qzz.io/videx/tyc/index.m3u8
+http://45.173.231.22:8000/play/a0e5/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
 http://152.231.24.38:8000/play/a001/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
