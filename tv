@@ -217,10 +217,12 @@ http://38.194.226.190:8000/play/a02e/index.m3u8
 http://38.194.226.190:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",Chilevision HD (Chile)
 http://209.14.108.45:8000/play/a0hp
-#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",FOX SPORTS
-http://181.78.50.91:8000/play/a04a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo (USA)
 http://45.5.117.188:8000/play/a077/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",DAZN 1 HD (España)
+http://200.59.191.177:8000/play/a00o/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",DAZN 2 HD (España)
+http://200.59.191.177:8000/play/a00p/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS HD
 http://190.108.83.69:8000/play/a0cb/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/K6CHYD9.png",TIGO SPORT(HONDURAS)
@@ -231,6 +233,8 @@ http://138.59.227.20:8000/play/a06x/index.m3u8
 http://152.231.24.38:8000/play/a001/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
 http://38.43.132.201:8000/play/a0wv/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",FOX SPORTS
+http://181.78.50.91:8000/play/a04a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
 http://38.187.7.251:8000/play/a0hl/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
