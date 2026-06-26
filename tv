@@ -117,8 +117,10 @@ http://38.187.7.252:8000/play/a04g/index.m3u8
 http://38.199.67.230:8000/play/a020/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Latino HD
 http://38.210.105.10:8000/play/a09k/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro HD
+#EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro 1 HD
 http://38.210.105.10:8000/play/a0bf/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro 2 HD
+http://205.235.6.29:8000/play/a0xw/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7eUyIdD.png",Space HD
 http://38.187.7.252:8000/play/a061/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Bz6CPGU.jpeg",Pluto Cine Terror
@@ -231,6 +233,8 @@ http://152.231.24.38:8000/play/a001/index.m3u8
 http://38.43.132.201:8000/play/a0wv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",FOX SPORTS
 http://45.167.1.139:8000/play/a05u
+#EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Deportes
+http://205.235.6.29:8000/play/a0y3/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",DAZN 1 HD (España)
 http://200.59.191.177:8000/play/a00o/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",DAZN 2 HD (España)
