@@ -129,8 +129,8 @@ https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/LG3Dks5.jpeg",Pluto Cine Aventura
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Cine Premium
-http://181.78.8.199:8000/play/a09q/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Plus +
+http://38.210.105.10:8000/play/a0gu/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/LTSM5pO.png",Cinema Premium HD
 http://190.14.238.117:8000/play/a01q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jxaNLBS.png",Mi Pelicula
@@ -228,11 +228,11 @@ http://181.119.108.43:9001/play/a07a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/x5sd4La.png",TYC Sports(ARGENTINA)
 http://186.33.57.100:8000/play/a2p3/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
-http://152.231.24.38:8000/play/a001/index.m3u8
+http://190.238.43.117:9000/play/a09d/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
 http://38.43.132.201:8000/play/a0wv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/tWmwNTq.png",FOX SPORTS
-http://45.167.1.139:8000/play/a05u
+http://168.228.44.241:9998/play/a0d9/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Deportes
 http://205.235.6.29:8000/play/a0y3/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/a2RcvuE.jpeg",DAZN 1 HD (España)
