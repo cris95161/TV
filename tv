@@ -170,7 +170,7 @@ http://38.210.105.10:8000/play/a0at/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YZ8SRn4.png",MEMORIAS SERIES
 http://38.199.67.230:8000/play/a00z/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IKXt1xF.png",Retro TV
-http://38.210.105.10:8000/play/CVSDCV/index.m3u8
+https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qenOwDa.png",AXN HD
 http://38.187.7.252:8000/play/a05b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8fvJZR7.png",UNIVERSAL CRIME HD
