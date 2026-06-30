@@ -81,6 +81,8 @@ http://38.211.145.109:8000/play/a063/index.m3u8
 http://38.210.105.10:8000/play/a07q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2sRe4AH.png",HBO Family HD
 http://38.187.7.252:8000/play/a04f/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Mas Peliculas
+http://38.210.105.10:8000/play/a09s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eZoCIui.png",Studio Universal HD
 http://38.187.7.252:8000/play/a06o/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jwY2eKC.png",Cinecanal HD
@@ -117,7 +119,7 @@ http://38.187.7.252:8000/play/a04g/index.m3u8
 http://38.199.67.230:8000/play/a020/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Latino HD
 http://38.210.105.10:8000/play/a09k/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro 1 HD
+#EXTINF:0 tvg-logo="http://imgfz.com/i/SqY2oup.png",Tunner HD
 http://38.210.105.10:8000/play/a0bf/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7eUyIdD.png",Space HD
 http://38.187.7.252:8000/play/a061/index.m3u8
@@ -127,9 +129,7 @@ https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/LG3Dks5.jpeg",Pluto Cine Aventura
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Plus +
-http://38.210.105.10:8000/play/a09s/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/LTSM5pO.png",Cinema Premium HD
+#EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Cine Premium HD
 http://190.14.238.117:8000/play/a01q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jxaNLBS.png",Mi Pelicula
 http://38.210.105.10:8000/play/a09l/index.m3u8
@@ -149,8 +149,8 @@ http://38.187.7.252:8000/play/a060/index.m3u8
 http://38.187.7.252:8000/play/a05d/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bFZBtrD.png",Comedy Central HD
 http://38.187.7.251:8000/play/a0cc/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/ePKknTb.png",MTV HD
-http://170.254.229.225:8000/play/a042/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/1BTV0aN.png",MTV HD
+http://38.210.105.10:8000/play/a03c/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ePKknTb.png",TNT Series HD
 http://38.187.7.251:8000/play/a0cl/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lAwvFiO.png",CLASSIC +
