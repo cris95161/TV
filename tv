@@ -81,8 +81,6 @@ http://38.211.145.109:8000/play/a063/index.m3u8
 http://38.210.105.10:8000/play/a07q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2sRe4AH.png",HBO Family HD
 http://38.187.7.252:8000/play/a04f/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Mas Peliculas
-http://38.210.105.10:8000/play/a09s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eZoCIui.png",Studio Universal HD
 http://38.187.7.252:8000/play/a06o/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jwY2eKC.png",Cinecanal HD
@@ -160,7 +158,7 @@ http://190.60.39.220:8000/play/a01z/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/gy1GYHc.png",TCM
 http://186.33.26.18:8000/play/a0nu/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WoNlOz5.png",MEMORIAS FILM
-http://38.199.67.230:8000/play/a01b/index.m3u8
+http://190.60.39.218:8000/play/a022/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/GyBWpLg.png",De Pelicula
@@ -169,6 +167,8 @@ http://181.119.108.43:9001/play/a0pu/index.m3u8
 http://38.210.105.10:8000/play/a0at/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YZ8SRn4.png",MEMORIAS SERIES
 http://38.199.67.230:8000/play/a00z/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/H3hbPYV.png",FMH SERIES
+http://38.199.67.230:8000/play/a021/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IKXt1xF.png",Retro TV
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qenOwDa.png",AXN HD
