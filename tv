@@ -55,8 +55,8 @@ https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 http://38.199.67.230:8000/play/a010/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/JYdWtP9.jpeg",OLD Music
 http://38.7.195.44:8000/play/a0bz
-#EXTINF:0 tvg-logo="http://imgfz.com/i/eWwGMzr.jpeg",Memorias POP
-http://38.210.105.10:8000/play/a0aq/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/eWwGMzr.jpeg",Contacto Latino
+http://170.246.114.52:8000/play/a04f/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/862Aoyv.png",VClassic Tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 1
@@ -166,7 +166,7 @@ http://190.60.39.218:8000/play/a022/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/GyBWpLg.png",De Pelicula
-http://181.119.108.43:9001/play/a0pu/index.m3u8
+http://170.246.114.52:8000/play/a05n/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2ST5HoZ.png",CLASSIC SERIES
 http://38.210.105.10:8000/play/a0at/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YZ8SRn4.png",MEMORIAS SERIES
