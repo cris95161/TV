@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://38.56.111.14:8000/play/a040/index.m3u8
+http://209.14.108.45:8000/play/a0fk
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://181.119.93.83:8000/play/a25x/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
@@ -138,7 +138,7 @@ http://148.222.230.144:8000/play/39/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/R2dUg6W.png",FMH MOVIES
 http://38.50.38.247:8000/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/veE2mBX.png",UNIVERSAL CINEMA HD
-http://45.228.233.60:8000/play/a059/index.m3u8
+http://38.7.195.44:8000/play/a0dm
 #EXTINF:0 tvg-logo="http://imgfz.com/i/irB1wdS.png",Sony HD
 http://38.187.7.252:8000/play/a05a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/xcJuDLZ.png",AMC HD
@@ -178,7 +178,7 @@ https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qenOwDa.png",AXN HD
 http://38.187.7.252:8000/play/a05b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8fvJZR7.png",UNIVERSAL CRIME HD
-http://45.228.233.60:8000/play/a03t/index.m3u8
+http://38.7.195.44:8000/play/a0dx
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5ibmcB2.png",A&E HD
 http://38.187.7.252:8000/play/a04n/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aM81Hc9.png",Discovery ID HD
