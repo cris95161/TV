@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://181.64.27.65:8000/play/a0di/index.m3u8
+http://8.243.126.131:8000/play/a01s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://38.187.7.252:8000/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
@@ -90,7 +90,7 @@ http://38.187.7.252:8000/play/a06o/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jwY2eKC.png",Cinecanal HD
 http://38.187.7.252:8000/play/a05z/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3sy4F5Y.png",Cinemax
-http://148.222.230.144:8000/play/a0dg/index.m3u8
+http://38.252.213.215:8010/play/a02t
 #EXTINF:0 tvg-logo="http://imgfz.com/i/MvXbfWF.png",Golden HD
 http://38.187.7.252:8000/play/a03s/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/W5lhYry.png",Golden Edge
@@ -122,7 +122,7 @@ http://38.199.67.230:8000/play/a020/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aRSxuXt.png",CLASSIC WEST
 http://38.7.195.44:8000/play/a0bu
 #EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Latino HD
-http://148.222.230.144:8000/play/43/index.m3u8
+http://38.210.105.10:8000/play/a09k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Movies HD
 http://148.222.230.144:8000/play/nmov/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/SqY2oup.png",Tunner HD
