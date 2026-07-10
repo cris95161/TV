@@ -232,8 +232,10 @@ http://38.187.7.251:8000/play/a0fs/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo Miami HD
 http://200.39.57.254:8008/play/a00y/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo 1 (USA)
-http://181.78.106.127:5000/play/ca041/index.m3u8
+http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo 2 (USA)
+http://181.78.106.127:5000/play/ca041/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo 3 (USA)
 http://152.231.29.139:8000/play/a0ji/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS HD
 http://38.187.7.252:8000/play/a03d/index.m3u8
