@@ -22,15 +22,13 @@ http://45.167.2.138:8000/play/a0st/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://201.77.61.226:8000/play/a0ln/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
-http://200.39.57.254:8008/play/a07a/index.m3u8
+http://190.83.15.112:8000/play/a0bt/index.m3u8u?hls
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
 http://179.63.5.46:8000/play/a06c/index.m3u8?hls
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2r0OX19.png",Imagen Tv
 https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/7xZDyG8.jpeg",Galavision HD
-http://200.39.57.254:8008/play/a00v/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qXizuI1.png",Tlnovelas Mex HD
 http://168.228.44.241:9998/play/a097/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Jp8RmY3.png",Tlnovelas LATAM
@@ -221,10 +219,10 @@ http://38.252.213.217:8000/play/a07j
 http://181.78.8.199:8000/play/a0ga/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/J3l7R8E.jpeg",EL Chavo TV
 http://38.252.215.33:8000/play/a00f/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 (Mexico)
-http://209.87.175.160:5001/play/a0ll/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7 (Mexico)
-http://209.87.175.160:5001/play/a0me/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 HD (Mexico)
+http://38.194.226.190:8000/play/a02e/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7 HD (Mexico)
+http://38.194.226.190:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",Chilevision HD (Chile)
 http://38.187.7.251:8000/play/a0fs/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo Miami HD
@@ -233,8 +231,6 @@ http://200.39.57.254:8008/play/a00y/index.m3u8
 http://45.5.117.188:8000/play/a077/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo 2 (USA)
 http://181.78.106.127:5000/play/ca041/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo 3 (USA)
-http://152.231.29.139:8000/play/a0ji/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS HD
 http://38.187.7.252:8000/play/a03d/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/K6CHYD9.png",TIGO SPORT(HONDURAS)
