@@ -22,7 +22,7 @@ http://45.167.2.138:8000/play/a0st/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://201.77.61.226:8000/play/a0ln/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
-http://190.83.15.112:8000/play/a0bt/index.m3u8u?hls
+http://201.77.61.226:8000/play/a0oh/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
 http://179.63.5.46:8000/play/a06c/index.m3u8?hls
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas
@@ -45,6 +45,8 @@ https://jmp2.uk/stvp-ES200041FT
 https://jmp2.uk/stvp-ES200040YF
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IJS9peD.jpeg",Free TV ASIA
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/90mknWO.png",Bonita TV
+http://170.82.115.101:8000/play/a04n/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/3jkB51J.jpeg",Pasiones USA
 https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/3Qselkd.png",TNT Novelas HD
@@ -127,6 +129,8 @@ http://148.222.230.144:8000/play/42/index.m3u8
 http://38.187.7.252:8000/play/a061/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Bz6CPGU.jpeg",Pluto Cine Terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",Cine Terror
+http://170.82.115.101:8000/play/a04e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/d8htPNH.jpeg",Pluto Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/LG3Dks5.jpeg",Pluto Cine Aventura
