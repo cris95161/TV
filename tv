@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://38.187.7.252:8000/play/a038/index.m3u8
+http://38.87.224.20:2220/play/a00e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://179.43.96.253:8000/play/a29v/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
@@ -24,7 +24,7 @@ http://201.77.61.226:8000/play/a0ln/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
 http://201.77.61.226:8000/play/a0oh/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
-http://179.63.5.46:8000/play/a06c/index.m3u8?hls
+http://181.119.93.83:8000/play/a25h/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2r0OX19.png",Imagen Tv
@@ -170,7 +170,7 @@ http://38.199.67.246:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 3
 https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/GyBWpLg.png",De Pelicula
-http://179.63.5.46:8000/play/a04w/index.m3u8?hls
+http://181.119.93.83:8000/play/a1jw/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2ST5HoZ.png",CLASSIC SERIES
 http://38.210.105.10:8000/play/a0at/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YZ8SRn4.png",MEMORIAS SERIES
