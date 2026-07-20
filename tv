@@ -18,7 +18,7 @@ http://38.252.213.215:8000/play/a01a
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
 http://38.187.7.252:8000/play/a031/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
-http://45.167.2.138:8000/play/a0st/index.m3u8
+http://177.74.205.189:8000/play/a01a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://201.77.61.226:8000/play/a0ln/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
@@ -50,7 +50,7 @@ http://170.82.115.101:8000/play/a04n/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/3jkB51J.jpeg",Pasiones USA
 https://jmp2.uk/rok-db95a237643ea0eea113c6c024515df2.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/3Qselkd.png",TNT Novelas HD
-http://38.187.7.252:8000/play/a05e/index.m3u8
+http://177.74.205.189:8000/play/a015/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/V0d45KF.jpeg",Mi Bella Genio 24/7
 https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/6EOSbZ4.png",Memorias Corazon
@@ -146,7 +146,7 @@ http://38.187.7.252:8000/play/a05a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/xcJuDLZ.png",AMC HD
 http://38.187.7.252:8000/play/a04x/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/luyPTtK.png",STAR CHANNEL HD
-http://38.194.226.190:8000/play/a01n/index.m3u8
+http://177.74.205.189:8000/play/a00w/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Kt8GOcX.png",Warner Channel HD
 http://38.187.7.252:8000/play/a060/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/giycbXP.png",UNIVERSAL CHANNEL HD
@@ -216,7 +216,7 @@ http://38.194.226.190:8000/play/a00u/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eVEfRID.png",Animotion HD
 http://181.225.96.98:8000/play/a03d/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/VDRoQE8.png",Adult Swim HD
-http://181.78.5.14:8000/play/a028/index.m3u8
+http://177.74.205.189:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eJI0ic3.png",Goku TV
 http://38.252.213.217:8000/play/a07j
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
