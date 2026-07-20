@@ -24,7 +24,7 @@ http://201.77.61.226:8000/play/a0ln/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
 http://201.77.61.226:8000/play/a0oh/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
-http://181.119.93.83:8000/play/a25h/index.m3u8
+https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/bitel/global_720p/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2r0OX19.png",Imagen Tv
@@ -121,10 +121,8 @@ http://38.199.67.230:8000/play/a020/index.m3u8
 http://38.7.195.44:8000/play/a0bu
 #EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Latino HD
 http://38.210.105.10:8000/play/a09k/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Movies HD
-http://148.222.230.144:8000/play/nmov/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/SqY2oup.png",Tunner HD
-http://148.222.230.144:8000/play/42/index.m3u8
+http://38.210.105.10:8000/play/a0bf/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7eUyIdD.png",Space HD
 http://38.187.7.252:8000/play/a061/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Bz6CPGU.jpeg",Pluto Cine Terror
@@ -138,7 +136,7 @@ https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Cine Premium HD
 http://38.7.195.44:8000/play/a0dk
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jxaNLBS.png",Mi Pelicula
-http://148.222.230.144:8000/play/nwar/index.m3u8
+http://38.210.105.10:8000/play/a09l/index.m3u8?hls
 #EXTINF:0 tvg-logo="http://imgfz.com/i/R2dUg6W.png",FMH MOVIES
 http://38.50.38.247:8000/play/a05w/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/veE2mBX.png",UNIVERSAL CINEMA HD
@@ -165,6 +163,8 @@ http://38.210.105.10:8000/play/a0au/index.m3u8
 http://38.199.67.230:8000/play/a01j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/gy1GYHc.png",TCM
 http://45.5.57.58:8000/play/a05v/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/yiW0KSX.png",OLD Movies
+http://186.5.85.189:8000/play/a04r/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WoNlOz5.png",MEMORIAS FILM
 http://38.199.67.246:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 3
@@ -220,7 +220,7 @@ http://181.78.5.14:8000/play/a028/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eJI0ic3.png",Goku TV
 http://38.252.213.217:8000/play/a07j
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
-http://181.78.8.199:8000/play/a0ga/index.m3u8
+http://177.74.205.189:8000/play/a00g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/J3l7R8E.jpeg",EL Chavo TV
 http://38.252.215.33:8000/play/a00f/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 HD (Mexico)
