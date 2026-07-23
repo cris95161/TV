@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://38.87.224.20:2220/play/a00e/index.m3u8
+http://138.99.179.64:8000/play/a00k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://38.190.101.128:2233/play/a1i9/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
@@ -113,13 +113,11 @@ https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
 https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sdtcXV2.png",HBO XTREME HD
 http://38.3.162.3:18009/play/a0hq/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/jw9u6f2.png",CINE WAR HD
-http://38.199.67.230:8000/play/a020/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aRSxuXt.png",CLASSIC WEST
 http://38.210.105.10:8000/play/a0aw/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/s4EFeud.png",Nitro Latino HD
 http://38.210.105.10:8000/play/a09k/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/mCzHoaJ.png",MX Prime HD
+#EXTINF:0 tvg-logo="http://imgfz.com/i/8RyLVMN.jpeg",Creo Movie HD
 http://186.5.85.189:8000/play/a04b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7eUyIdD.png",Space HD
 http://38.187.7.252:8000/play/a061/index.m3u8
@@ -173,10 +171,14 @@ http://181.119.93.83:8000/play/a1jw/index.m3u8
 http://38.210.105.10:8000/play/a0at/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YZ8SRn4.png",MEMORIAS SERIES
 http://38.199.67.230:8000/play/a00z/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/H3hbPYV.png",FMH SERIES
-http://38.199.67.230:8000/play/a021/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/pAthUYy.jpeg",Flashback
+http://201.186.41.99:8001/play/a06m/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IKXt1xF.png",Retro TV
 https://lbgo.bozztv.com/ssh101/ssh101/retyroxtv/chunks.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/b1DT5yq.png",MX Series
+http://201.186.41.99:8001/play/a02i/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/jw9u6f2.png",Far West
+http://201.186.41.99:8001/play/a06l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qenOwDa.png",AXN HD
 http://38.187.7.252:8000/play/a05b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8fvJZR7.png",UNIVERSAL CRIME HD
