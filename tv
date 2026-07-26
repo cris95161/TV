@@ -43,6 +43,8 @@ https://jmp2.uk/plu-6661d5424b10960008599fa3.m3u8
 https://jmp2.uk/stvp-ES200041FT
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jXheY06.png",Series K DRAMA
 https://jmp2.uk/stvp-ES200040YF
+#EXTINF:0 tvg-logo="http://imgfz.com/i/mKYotyn.png",CJENM
+https://jmp2.uk/stvp-ES1700003C6
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IJS9peD.jpeg",Free TV ASIA
 https://jmp2.uk/rok-9b3f0b588b03c9126a053d3eebfc58db.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/90mknWO.png",Bonita TV
@@ -107,12 +109,6 @@ http://201.77.61.226:8000/play/a08y/index.m3u8
 http://38.252.213.215:8000/play/a00t
 #EXTINF:0 tvg-logo="https://i.imgur.com/w7riHfL.png",FX HD
 http://38.187.7.252:8000/play/a064/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/35bwmG7.jpeg",Pluto Cine Adrenalina
-https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/Lw08ted.jpeg",Pluto Cine Mas Adrenalina
-https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/tXBdNZI.jpeg",Pluto Cine Comedia
-https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sdtcXV2.png",HBO XTREME HD
 http://38.3.162.3:18009/play/a0hq/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aRSxuXt.png",CLASSIC WEST
@@ -123,20 +119,40 @@ http://38.210.105.10:8000/play/a09k/index.m3u8
 http://186.5.85.189:8000/play/a04b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7eUyIdD.png",Space HD
 http://38.187.7.252:8000/play/a061/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/Bz6CPGU.jpeg",Pluto Cine Terror
-https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",Cine Terror
-http://170.82.115.101:8000/play/a04e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/d8htPNH.jpeg",Pluto Cine Premiere
 https://jmp2.uk/plu-5cf968040ab7d8f181e6a68b.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/LG3Dks5.jpeg",Pluto Cine Aventura
 https://jmp2.uk/plu-60fb2f47c133270007327375.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/RaYB0tv.jpeg",Pluto Cine Estelar LATAM
+https://jmp2.uk/plu-5dcde437229eff00091b6c30.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/RaYB0tv.jpeg",Pluto Cine Estelar España
+https://jmp2.uk/plu-5f1ac1f1b66c76000790ef27.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/35bwmG7.jpeg",Pluto Cine Adrenalina
+https://jmp2.uk/plu-5d8d164d92e97a5e107638d2.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/Lw08ted.jpeg",Pluto Cine Mas Adrenalina
+https://jmp2.uk/plu-687fea9a4fa995eff284a1c8.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/P1WZEXn.jpeg",Pluto Cine Accion
+https://jmp2.uk/plu-5dcb62e63d4d8f0009f36881.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/PXYNkM3.jpeg",Pluto Estrellas de Accion
+https://jmp2.uk/plu-5e972a21ad709d00074195ba.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/i7531fS.jpeg",Pluto Adrenalina Pura tv
+https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/XZP63Jp.jpeg",Pluto Cine Familia
+https://jmp2.uk/plu-5f5136317aedfb0007016f93.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/tXBdNZI.jpeg",Pluto Cine Comedia USA
+https://jmp2.uk/plu-5f513564e4622a0007c578c0.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/tXBdNZI.jpeg",Pluto Cine Comedia Latam
+https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Cine Premium HD
 http://38.52.182.224:8000/play/a0cj/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jxaNLBS.png",Mi Pelicula
 http://38.210.105.10:8000/play/a09l/index.m3u8?hls
 #EXTINF:0 tvg-logo="http://imgfz.com/i/R2dUg6W.png",FMH MOVIES
 http://38.156.13.106:8888/play/a01g/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/Bz6CPGU.jpeg",Pluto Cine Terror
+https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",Cine Terror
+http://170.82.115.101:8000/play/a04e/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/veE2mBX.png",UNIVERSAL CINEMA HD
 http://181.119.210.234:4000/play/a06j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/irB1wdS.png",Sony HD
