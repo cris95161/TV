@@ -18,7 +18,7 @@ http://181.66.249.246:8000/play/a0jz/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
 http://201.77.61.226:8000/play/a0dt/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
-http://177.74.205.189:8000/play/a01a/index.m3u8
+http://45.5.118.136:8888/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://201.77.61.226:8000/play/a0ln/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
@@ -92,7 +92,7 @@ http://38.43.132.201:8000/play/a0di/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3sy4F5Y.png",Cinemax
 http://38.252.213.209:8000/play/a0bc
 #EXTINF:0 tvg-logo="http://imgfz.com/i/MvXbfWF.png",Golden HD
-http://38.187.7.251:8000/play/a0as/index.m3u8
+http://45.5.118.136:8888/play/a00y/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/W5lhYry.png",Golden Edge
 http://45.5.118.136:8888/play/a010/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mt2TFar.png",TNT HD
@@ -154,7 +154,7 @@ http://38.156.13.106:8888/play/a01g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Bz6CPGU.jpeg",Pluto Cine Terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",Cine Terror
-https://srv1.thinkinternationalchannels.com/scaremovieshd0016/tracks-v1a1/mono.ts.m3u8
+https://srv1.thinkinternationalchannels.com/scaremovieshd0016/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:0 tvg-logo="http://imgfz.com/i/veE2mBX.png",UNIVERSAL CINEMA HD
 http://45.5.118.136:8888/play/a0pc/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/irB1wdS.png",Sony HD
