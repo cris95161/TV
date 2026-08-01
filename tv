@@ -14,17 +14,17 @@ http://38.250.175.22:2220/play/a00b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
 http://38.250.175.22:2220/play/a02h/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N
-http://181.66.249.246:8000/play/a0jz/index.m3u8
+http://38.252.215.33:8000/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
 http://201.77.61.226:8000/play/a0dt/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
-http://45.5.118.136:8888/play/a003/index.m3u8
+http://177.74.205.189:8000/play/a01a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
 http://201.77.61.226:8000/play/a0ln/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
-http://190.235.207.217:8000/play/a0ts/index.m3u8
+http://38.252.215.33:8000/play/a00h/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
-http://201.77.61.226:8000/play/a04y/index.m3u8
+http://cdnhrz01.latincable.com.pe/Global-HD/playlist.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2r0OX19.png",Imagen Tv
@@ -90,9 +90,9 @@ http://38.187.7.251:8000/play/a0a8/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/jwY2eKC.png",Cinecanal HD
 http://38.43.132.201:8000/play/a0di/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3sy4F5Y.png",Cinemax
-http://38.252.213.209:8000/play/a0bc
+http://cdnhrz01.latincable.com.pe/Cinemax/playlist.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/MvXbfWF.png",Golden HD
-http://45.5.118.136:8888/play/a00y/index.m3u8
+http://38.187.7.251:8000/play/a0as/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/W5lhYry.png",Golden Edge
 http://45.5.118.136:8888/play/a010/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mt2TFar.png",TNT HD
@@ -154,7 +154,7 @@ http://38.156.13.106:8888/play/a01g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Bz6CPGU.jpeg",Pluto Cine Terror
 https://jmp2.uk/plu-5d8d180092e97a5e107638d3.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/4QX2h6u.jpeg",Cine Terror
-https://srv1.thinkinternationalchannels.com/scaremovieshd0016/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
+https://srv1.thinkinternationalchannels.com/scaremovieshd0016/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/veE2mBX.png",UNIVERSAL CINEMA HD
 http://45.5.118.136:8888/play/a0pc/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/irB1wdS.png",Sony HD
@@ -180,7 +180,6 @@ http://201.186.41.99:8001/play/a06i/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/gy1GYHc.png",TCM
 http://45.5.57.58:8000/play/a05v/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/yiW0KSX.png",OLD Movies
-http://186.5.85.189:8000/play/a04r/index.m3u8
 https://srv1.thinkinternationalchannels.com/oldmovies/tracks-v1a1/mono.ts.m3u8?token=yI1sYBii_GTZi0
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WoNlOz5.png",MEMORIAS FILM
 http://187.102.195.126:8027/play/a01b/index.m3u8
@@ -233,7 +232,7 @@ http://200.37.149.6:8000/play/a0tw/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/zWvQBEI.png",MEMORIAS TOONS
 http://187.102.195.126:8027/play/a01a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bjkz8ax.png",Tooncast
-http://38.156.13.106:8888/play/a00l/index.m3u8
+http://38-252-223-1.latincable.com.pe/Tooncast/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eVEfRID.png",Animotion HD
 http://181.225.96.98:8000/play/a03d/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/VDRoQE8.png",Adult Swim HD
@@ -243,7 +242,7 @@ http://38.3.162.3:18009/play/a0i8/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
 http://177.74.205.189:8000/play/a00g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/J3l7R8E.jpeg",EL Chavo TV
-http://38.252.215.33:8000/play/a00f/index.m3u8
+http://38.252.215.33:8000/play/a01i/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/7sVXfd0.png",Canal 5 HD (Mexico)
 http://45.172.92.111:8000/play/a0n6/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7 HD (Mexico)
