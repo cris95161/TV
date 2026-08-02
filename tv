@@ -92,7 +92,7 @@ http://cdnhrz01.latincable.com.pe/Panel-Cinecanal-HD/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/3sy4F5Y.png",Cinemax
 http://cdnhrz01.latincable.com.pe/Cinemax/playlist.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/MvXbfWF.png",Golden HD
-http://38.187.7.251:8000/play/a0as/index.m3u8
+http://cdnhrz01.latincable.com.pe/Panel_Golden_HD/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/W5lhYry.png",Golden Edge
 http://45.5.118.136:8888/play/a010/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mt2TFar.png",TNT HD
