@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://181.65.191.173:8069/play/a004
+http://190.232.196.93:8000/play/willaxhd/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://190.232.196.93:8000/play/LatinaHD/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
@@ -257,8 +257,6 @@ http://186.33.57.100:8000/play/a2p3/index.m3u8
 http://200.37.149.6:8000/play/a0ur/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
 http://190.119.218.82:8000/play/a00e/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/tWmwNTq.png",FOX SPORTS
-http://8.243.126.131:8000/play/a0ih/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
 http://38.187.2.124:8000/play/a01z/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
