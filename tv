@@ -4,11 +4,11 @@ http://168.194.103.219:2550/play/a07q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://138.99.179.64:8000/play/a006/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
-http://201.77.61.226:8000/play/a0kt/index.m3u8
+http://190.108.93.156:1234/play/a1mc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
 http://168.194.103.219:2550/play/a00h/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
-http://201.77.61.226:8000/play/a0la/index.m3u8
+http://190.108.93.156:1234/play/a1g3/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
 http://38.190.100.202:8000/play/a05b/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
@@ -20,11 +20,11 @@ http://38.190.100.202:8000/play/a05k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
 http://45.189.151.7:8000/play/a08b
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
-http://201.77.61.226:8000/play/a0ln/index.m3u8
+http://179.51.160.246:8888/play/a003/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
 http://38.43.132.201:8000/play/a0p2/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
-http://201.77.61.226:8000/play/a04y/index.m3u8
+http://190.108.93.156:1234/play/a1n3/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oDFdiYJ.png",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2r0OX19.png",Imagen Tv
@@ -32,7 +32,7 @@ https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/qXizuI1.png",Tlnovelas Mex HD
 http://168.228.44.241:9998/play/a097/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Jp8RmY3.png",Tlnovelas LATAM
-http://201.77.61.226:8000/play/a0lf/index.m3u8
+http://167.250.133.214:8000/play/a03z
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QmIMuoy.png",Novelas Familiares
 https://jmp2.uk/rok-1d889b474b205fe385a2c552aa909b94.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ZX5W6Sa.jpeg",Pluto k-Dramas
@@ -78,7 +78,7 @@ http://168.194.103.219:2550/play/a0bz/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Mi Musica REGUETON
 http://181.78.8.199:8000/play/a09r/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/SdicHQv.png",Top Latino
-http://201.77.61.226:8000/play/a0ak/index.m3u8
+http://179.51.160.246:8888/play/a01c/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/mdLCeRN.png",CINE FAMILIAR HD
 http://179.63.5.46:8000/play/a06s/index.m3u8?hls
 #EXTINF:0 tvg-logo="http://imgfz.com/i/L3UuGH1.png",FMH FAMILY 
