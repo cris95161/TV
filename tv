@@ -6,13 +6,13 @@ http://45.186.254.75:8000/play/a0c2/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
 http://45.186.254.75:8000/play/a0ca/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
-http://45.186.254.75:8000/play/a0c3/index.m3u8
+http://45.181.120.147:9800/play/a0gn/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
 http://167.250.133.214:8000/play/a04i
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
 http://190.234.82.52:8000/play/a0kq/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
-http://190.234.82.52:8000/play/a0nr/index.m3u8
+http://45.186.254.75:8000/play/a0c4/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N
 http://190.108.93.156:1234/play/a1ga/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
