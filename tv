@@ -94,7 +94,7 @@ http://167.250.133.214:8000/play/a02j
 #EXTINF:0 tvg-logo="http://imgfz.com/i/MvXbfWF.png",Golden HD
 http://38.187.7.251:8000/play/a0as/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/W5lhYry.png",Golden Edge
-http://45.5.118.136:8888/play/a010/index.m3u8
+http://200.122.232.149:8000/play/a047/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mt2TFar.png",TNT HD
 http://38.224.231.47:8000/play/a047/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ZhupvNC.png",HBO HD
@@ -144,7 +144,7 @@ https://jmp2.uk/plu-5dcdde78f080d900098550e4.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/apjFPhu.png",Cine Premium HD
 http://138.99.179.64:8000/play/a019/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jxaNLBS.png",Mi Pelicula
-http://38.210.105.10:8000/play/a09l/index.m3u8?hls
+http://38.210.105.10:8000/play/a09l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/R2dUg6W.png",FMH MOVIES
 http://38.156.13.106:8888/play/a01g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/h2YvV0i.png",AVI Cine
@@ -170,7 +170,7 @@ http://38.224.231.47:8000/play/a03a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/lAwvFiO.png",CLASSIC +
 http://167.250.133.214:8000/play/a02c
 #EXTINF:0 tvg-logo="http://imgfz.com/i/vkpPyDI.jpeg",REWIND
-http://181.78.21.171:8000/play/a09e/index.m3u8
+http://200.60.124.25:8000/play/a0mz/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/tdgXiJ8.jpeg",AVI REWIND
 http://45.172.92.111:8000/play/a03a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/gy1GYHc.png",TCM
@@ -190,9 +190,9 @@ http://190.60.39.218:8000/play/a025/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IKXt1xF.png",RetroX TV
 https://lbgo.bozztv.com/ssh101/ssh101/sternblink/chunks.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/b1DT5yq.png",MX Series
-http://201.186.41.99:8001/play/a02i/index.m3u8
+http://45.169.148.10:8044/play/a00h/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jw9u6f2.png",Far West
-http://201.186.41.99:8001/play/a06l/index.m3u8
+http://38.252.215.33:8000/play/a01j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aRSxuXt.png",CLASSIC WEST
 http://38.210.105.10:8000/play/a0aw/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ePKknTb.png",TNT Series HD
