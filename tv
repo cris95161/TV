@@ -281,3 +281,5 @@ http://190.108.93.180:8000/play/a02r/index.m3u8
 http://190.108.93.180:8000/play/a02k/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QUYib7y.png",ESPN 7 HD
 http://190.108.93.180:8000/play/a040/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/QUYib7y.png",FOX SPORT HD
+http://177.53.153.207:8000/play/a008/index.m3u8
