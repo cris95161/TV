@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://38.87.224.20:2220/play/a00d/index.m3u8
+http://181.224.255.210:8001/play/a0s7/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://38.87.224.20:2220/play/a005/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
 http://38.252.215.33:8000/play/a004/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
-http://138.99.179.64:8000/play/a06c/index.m3u8
+http://181.224.255.210:8001/play/a0pj/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
 http://38.252.215.33:8000/play/a005/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
@@ -68,7 +68,7 @@ https://srt01.logicahost.com.br/senal2/index.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/862Aoyv.png",VClassic Tv
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 1
-https://lbgo.bozztv.com/ssh101/ssh101/retroplustvuno/chunks.m3u8?
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/EcsOj9a.png",Memorias Classic
 http://190.60.39.221:8000/play/a020/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eWwGMzr.jpeg",Contacto Latino
