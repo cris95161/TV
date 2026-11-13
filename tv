@@ -4,7 +4,7 @@ http://181.224.255.210:8001/play/a0s7/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 https://dai.google.com/linear/hls/pa/event/oYQGDqEGTmGdHE_fz9oLlg/stream/0283658b-fa16-4a73-a43d-45eccf8b3148:SCL2/variant/a2369c38af57cf3b2e7073d04299cf1a/bandwidth/3846347.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
-https://dai.google.com/linear/hls/pa/event/LIxDWCRXQWiMvDmmq8_zgw/stream/7f546c9e-4ac6-4096-8c51-1f1f0e9c83ec:SCL2/variant/a2607c6664646f749075611cdead23a0/bandwidth/2969764.m3u8
+http://186.148.196.82:8001/play/a0dh
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
 http://181.224.255.210:8001/play/a0pj/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
@@ -12,7 +12,7 @@ http://181.224.255.210:8001/play/a0s5/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
 http://138.99.179.64:8000/play/a02g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
-https://cdnhd2.iblups.net/hls/777b4d4cc0984575a7d14f6ee57dbcaf7.m3u8
+http://190.108.93.156:1234/play/a1m3/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N
 http://190.108.93.156:1234/play/a1ga/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
