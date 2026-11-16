@@ -71,6 +71,8 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?
 https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/main_stream.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/EcsOj9a.png",Memorias Classic
 http://190.60.39.221:8000/play/a020/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/8RyLVMN.jpeg",ZCREO TV
+https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8?
 #EXTINF:0 tvg-logo="http://imgfz.com/i/eWwGMzr.jpeg",Contacto Latino
 http://190.60.39.221:8000/play/a023/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1b6PlOL.png",Vision Musica
