@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="http://imgfz.com/i/5nV0XDS.png",Willax HD
-http://181.65.191.173:8069/play/a004
+http://190.108.93.156:1234/play/a1g8/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HT1rWDc.png",Latina HD
 http://190.108.93.156:1234/play/a1g0/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/kvLWMO4.png",RPP HD
-http://186.148.196.82:8001/play/a0dh
+http://190.108.93.156:1234/play/a1mc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
-http://181.224.255.210:8001/play/a0pj/index.m3u8
+http://190.117.20.35:8000/play/a0ey/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
 http://190.108.93.156:1234/play/a1g3/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
@@ -254,9 +254,9 @@ http://201.174.175.3:8000/play/a0kl/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",Chilevision HD (Chile)
 http://45.186.254.75:8000/play/a0fq/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
-http://38.252.215.33:8000/play/a00q/index.m3u8
+http://190.128.255.62:2222/play/a0gv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
-http://181.224.255.210:8001/play/a0s8/index.m3u8
+http://190.7.19.206:8098/play/a0qn/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/sfQ0MvA.png",Movistar Deportes
 http://38.19.213.78:8000/play/a01q/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJPOFo5.png",LIGA 1 MAX HD
