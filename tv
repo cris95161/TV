@@ -12,7 +12,7 @@ http://191.97.62.126:9000/play/a0ko/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
 http://138.99.179.64:8000/play/a02g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
-http://200.215.249.76:8000/play/a07s
+http://190.108.80.138:8000/play/a0kz/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/fJyGulT.jpeg",Canal N
 http://190.108.93.156:1234/play/a1ga/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/WXfG4iu.png",Atv HD
@@ -63,10 +63,10 @@ http://190.108.93.180:8000/play/a031/index.m3u8
 https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/6EOSbZ4.png",Memorias Corazon
 http://190.60.39.221:8000/play/a021/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/862Aoyv.png",VClassic 2 Tv
-https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 2
 https://srt01.logicahost.com.br/senal2/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/862Aoyv.png",VClassic 2 Tv
+https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/862Aoyv.png",VClassic 1 Tv
 https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 1
@@ -97,6 +97,8 @@ http://181.225.96.100:8000/play/a01z/index.m3u8
 http://45.172.92.111:8000/play/a03a/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 3
 https://srt01.logicahost.com.br/senal3/index.m3u8?
+#EXTINF:0 tvg-logo="http://imgfz.com/i/tdgXiJ8.jpeg",ENT CLASICC
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IKXt1xF.png",RetroX TV
 https://stream-retroxtv.site/w/QNibZ7nyJCWBSqNgme03EG4r.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/yiW0KSX.png",OLD Movies
@@ -109,14 +111,20 @@ http://181.225.96.98:8000/play/a026/index.m3u8
 http://38.59.135.250:8001/play/a0ll/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",Azteca 7 HD (Mexico)
 http://201.174.175.3:8000/play/a0kl/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/df8MZ4J.png",ETC (Chile)
+http://45.4.1.130:8445/play/FTR54J/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/VDRoQE8.png",Adult Swim HD
 http://38.156.13.106:8888/play/a00h/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/eJI0ic3.png",Goku TV
-http://38.3.162.3:18009/play/a0i8/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/oXnfujD.png",BITME
 http://177.74.205.189:8000/play/a00g/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/eJI0ic3.png",Goku TV
+http://38.3.162.3:18009/play/a0i8/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jxaNLBS.png",Mi Pelicula
 http://38.210.105.10:8000/play/a09l/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/jxaNLBS.png",Max Comedy
+http://179.63.6.216:8000/play/a00p
+#EXTINF:0 tvg-logo="http://imgfz.com/i/tdgXiJ8.jpeg",ENT FAMILY
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/mdLCeRN.png",CINE FAMILIAR HD
 http://138.99.179.64:8000/play/a017/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/L3UuGH1.png",FMH FAMILY 
@@ -226,7 +234,7 @@ http://190.108.93.180:8000/play/a02l/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/aM81Hc9.png",Discovery ID HD
 http://190.108.93.180:8000/play/a044/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bzxnBAI.png",Discovery Channel  HD
-http://200.215.249.76:8000/play/a00h
+http://45.4.1.130:8445/play/QW154785/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/LVrSaRk.png",Discovery Theater HD
 http://190.108.93.180:8000/play/a039/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/RfoFEzM.png",Discovery World HD
@@ -279,6 +287,10 @@ http://191.97.62.126:9000/play/a0dx/index.m3u8
 http://190.108.93.180:8000/play/a040/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QUYib7y.png",FOX SPORT HD
 http://177.53.153.207:8000/play/a008/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Total Music
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",FAST Music
+http://179.63.6.216:8000/play/a017
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Mi Musica REGUETON
 http://181.78.8.199:8000/play/a09r/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/SdicHQv.png",Top Latino
