@@ -65,8 +65,8 @@ https://jmp2.uk/plu-68ffc086a530e036bc8f0305.m3u8
 http://190.60.39.221:8000/play/a021/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 2
 https://srt01.logicahost.com.br/senal2/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/862Aoyv.png",VClassic 2 Tv
-https://5eaccbab48461.streamlock.net:1936/8260/8260/playlist.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Mi Musica Romantica
+http://181.225.190.242:8000/play/a02f
 #EXTINF:0 tvg-logo="http://imgfz.com/i/862Aoyv.png",VClassic 1 Tv
 https://5eaccbab48461.streamlock.net:1936/8264/8264/playlist.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/71QSC3J.jpeg",Retro Plus 1
