@@ -8,7 +8,7 @@ http://190.108.93.156:1234/play/a1mc/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/5j8Jupe.jpeg",America Tv HD
 http://190.117.20.35:8000/play/a0ey/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/cZdSzVU.png",Panamericana HD
-http://190.108.93.156:1234/play/a1g3/index.m3u8
+http://191.97.62.126:9000/play/a0ko/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8u3Hg7Z.png",Exitosa HD
 http://138.99.179.64:8000/play/a02g/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/uF6RDiL.png",TV PERU HD
@@ -20,7 +20,7 @@ http://190.108.93.156:1234/play/a1n5/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Xd0wHUi.png",Distrito Comedia
 http://38.236.104.95:51002/play/a0al/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/9Cx7Ihr.png",TELELIMA
-http://179.51.160.246:8888/play/a003/index.m3u8
+http://191.97.62.126:9000/play/a07j/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1SZshUL.png",Pasiones HD
 http://190.108.93.180:8000/play/a03c/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Mq94DyO.png",GLOBAL HD
@@ -196,7 +196,7 @@ http://45.172.92.111:8000/play/a037/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YZ8SRn4.png",MEMORIAS SERIES
 http://190.60.39.221:8000/play/a025/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/IKXt1xF.png",RetroX TV
-https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8
+https://stream-retroxtv.site/w/QNibZ7nyJCWBSqNgme03EG4r.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/b1DT5yq.png",MX Series
 http://45.169.148.10:8044/play/a00h/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/jw9u6f2.png",Far West
