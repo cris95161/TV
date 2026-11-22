@@ -79,8 +79,6 @@ https://live-evg11.tv360.bitel.com.pe/bitel/ZCreotvSRT/chunks.m3u8?
 http://190.60.39.221:8000/play/a023/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/8EYXvTR.png",Karibeña HD
 http://191.97.62.126:9000/play/a0bz/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/1b6PlOL.png",Vision Musica
-https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/YZ8SRn4.png",MEMORIAS SERIES
 http://190.60.39.221:8000/play/a025/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/2ST5HoZ.png",CLASSIC SERIES
@@ -218,7 +216,7 @@ http://191.97.62.126:9000/play/a0df/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/Kt8GOcX.png",Warner Channel HD
 http://191.97.62.126:9000/play/a076/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/bFZBtrD.png",Comedy Central HD
-http://190.108.91.64:8000/play/a0ck/index.m3u8
+http://45.226.205.99:48000/play/a0e3/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/1BTV0aN.png",MTV HD
 http://190.108.93.180:8000/play/a033/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/ePKknTb.png",TNT Series HD
@@ -285,8 +283,8 @@ http://190.108.93.180:8000/play/a02r/index.m3u8
 http://191.97.62.126:9000/play/a0dx/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QUYib7y.png",ESPN 7 HD
 http://190.108.93.180:8000/play/a040/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/QUYib7y.png",FOX SPORT HD
-http://177.53.153.207:8000/play/a008/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/1b6PlOL.png",Vision Musica
+https://videoserver.tmcreativos.com:19360/visionmusica/visionmusica.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",Total Music
 https://cdn.40mediagroup.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/HRkivPM.png",FAST Music
