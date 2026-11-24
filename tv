@@ -255,6 +255,8 @@ http://190.108.93.180:8000/play/a03v/index.m3u8
 http://45.186.254.75:8000/play/a0fq/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo HD
 http://177.234.218.66:8084/play/a080/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Mega HD
+http://170.247.204.9:8000/play/a00f/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
 http://190.128.255.62:2222/play/a0gv/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 2
