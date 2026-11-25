@@ -253,8 +253,8 @@ http://200.50.155.180:8010/play/a0h1a/index.m3u8
 http://190.108.93.180:8000/play/a03v/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/QDUKARI.png",Chilevision HD (Chile)
 http://45.186.254.75:8000/play/a0fq/index.m3u8
-#EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo 
-http://200.76.0.25:8000/play/a03u/index.m3u8
+#EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Telemundo HD
+http://66.231.76.17:5000/play/a081
 #EXTINF:0 tvg-logo="http://imgfz.com/i/KwAUIez.png",Mega HD
 http://170.247.204.9:8000/play/a00f/index.m3u8
 #EXTINF:0 tvg-logo="http://imgfz.com/i/UKGRyN8.jpeg",DSPORTS 1
